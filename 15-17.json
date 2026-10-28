@@ -1,0 +1,554 @@
+{
+    "1": {
+        "word": "mille",
+        "full": "mille",
+        "translation": "thousand; (plural) thousands",
+        "type": "nominative singular"
+    },
+    "2": {
+        "word": "milis",
+        "full": "mille",
+        "translation": "thousand; (plural) thousands",
+        "type": "genitive singular"
+    },
+    "3": {
+        "word": "milia",
+        "full": "mille",
+        "translation": "thousand; (plural) thousands",
+        "type": "nominative plural"
+    },
+    "4": {
+        "word": "milum",
+        "full": "mille",
+        "translation": "thousand; (plural) thousands",
+        "type": "genitive plural"
+    },
+    "5": {
+        "word": "milli",
+        "full": "mille",
+        "translation": "thousand; (plural) thousands",
+        "type": "locative singular"
+    },
+    "6": {
+        "word": "miser",
+        "full": "miser, misera, miserum",
+        "translation": "wretched, miserable, unfortunate",
+        "type": "positive nominative singular masculine"
+    },
+    "7": {
+        "word": "inter",
+        "full": "inter",
+        "translation": "between, among (takes accusative)",
+        "type": "takes accusative"
+    },
+    "8": {
+        "word": "jacio",
+        "full": "iacio, iacere, ieci, iactum",
+        "translation": "to throw, hurl",
+        "type": "present active indicative 1st person singular"
+    },
+    "9": {
+        "word": "jacis",
+        "full": "iacio, iacere, ieci, iactum",
+        "translation": "to throw, hurl",
+        "type": "present active indicative 2nd person singular"
+    },
+    "10": {
+        "word": "jacit",
+        "full": "iacio, iacere, ieci, iactum",
+        "translation": "to throw, hurl",
+        "type": "present active indicative 3rd person singular"
+    },
+    "11": {
+        "word": "jecit",
+        "full": "iacio, iacere, ieci, iactum",
+        "translation": "to throw, hurl",
+        "type": "perfect active indicative 3rd person singular"
+    },
+    "12": {
+        "word": "eicio",
+        "full": "eicio, eicere, eieci, eiectum",
+        "translation": "to throw out, drive out",
+        "type": "present active indicative 1st person singular"
+    },
+    "13": {
+        "word": "eicis",
+        "full": "eicio, eicere, eieci, eiectum",
+        "translation": "to throw out, drive out",
+        "type": "present active indicative 2nd person singular"
+    },
+    "14": {
+        "word": "eicit",
+        "full": "eicio, eicere, eieci, eiectum",
+        "translation": "to throw out, drive out",
+        "type": "present active indicative 3rd person singular"
+    },
+    "15": {
+        "word": "ejeci",
+        "full": "eicio, eicere, eieci, eiectum",
+        "translation": "to throw out, drive out",
+        "type": "perfect active indicative 1st person singular"
+    },
+    "16": {
+        "word": "timeo",
+        "full": "timeo, timere, timui, -",
+        "translation": "to fear, be afraid of, be afraid",
+        "type": "present active indicative 1st person singular"
+    },
+    "17": {
+        "word": "times",
+        "full": "timeo, timere, timui, -",
+        "translation": "to fear, be afraid of, be afraid",
+        "type": "present active indicative 2nd person singular"
+    },
+    "18": {
+        "word": "timet",
+        "full": "timeo, timere, timui, -",
+        "translation": "to fear, be afraid of, be afraid",
+        "type": "present active indicative 3rd person singular"
+    },
+    "19": {
+        "word": "timui",
+        "full": "timeo, timere, timui, -",
+        "translation": "to fear, be afraid of, be afraid",
+        "type": "perfect active indicative 1st person singular"
+    },
+    "20": {
+        "word": "unius",
+        "full": "unus, -a, -um",
+        "translation": "one",
+        "type": "cardinal genitive singular masculine"
+    },
+    "21": {
+        "word": "trium",
+        "full": "tres, tria",
+        "translation": "three",
+        "type": "cardinal genitive plural masculine"
+    },
+    "22": {
+        "word": "novem",
+        "full": "novem",
+        "translation": "nine",
+        "type": "cardinal"
+    },
+    "23": {
+        "word": "decem",
+        "full": "decem",
+        "translation": "ten",
+        "type": "cardinal"
+    },
+    "24": {
+        "word": "primi",
+        "full": "primus, -a, -um",
+        "translation": "first",
+        "type": "positive genitive singular masculine"
+    },
+    "25": {
+        "word": "primo",
+        "full": "primus, -a, -um",
+        "translation": "first",
+        "type": "positive dative singular masculine"
+    },
+    "26": {
+        "word": "prime",
+        "full": "primus, -a, -um",
+        "translation": "first",
+        "type": "positive vocative singular masculine"
+    },
+    "27": {
+        "word": "prima",
+        "full": "primus, -a, -um",
+        "translation": "first",
+        "type": "positive nominative singular feminine"
+    },
+    "28": {
+        "word": "sexti",
+        "full": "sextus, -a, -um",
+        "translation": "sixth",
+        "type": "ordinal genitive singular masculine"
+    },
+    "29": {
+        "word": "sexto",
+        "full": "sextus, -a, -um",
+        "translation": "sixth",
+        "type": "ordinal dative singular masculine"
+    },
+    "30": {
+        "word": "sexte",
+        "full": "sextus, -a, -um",
+        "translation": "sixth",
+        "type": "ordinal vocative singular masculine"
+    },
+    "31": {
+        "word": "sexta",
+        "full": "sextus, -a, -um",
+        "translation": "sixth",
+        "type": "ordinal nominative singular feminine"
+    },
+    "32": {
+        "word": "nonus",
+        "full": "nonus, -a, -um",
+        "translation": "ninth",
+        "type": "ordinal nominative singular masculine"
+    },
+    "33": {
+        "word": "nonum",
+        "full": "nonus, -a, -um",
+        "translation": "ninth",
+        "type": "ordinal accusative singular masculine"
+    },
+    "34": {
+        "word": "nonis",
+        "full": "nonus, -a, -um",
+        "translation": "ninth",
+        "type": "ordinal dative plural masculine"
+    },
+    "35": {
+        "word": "nonos",
+        "full": "nonus, -a, -um",
+        "translation": "ninth",
+        "type": "ordinal accusative plural masculine"
+    },
+    "36": {
+        "word": "nonae",
+        "full": "nonus, -a, -um",
+        "translation": "ninth",
+        "type": "ordinal genitive singular feminine"
+    },
+    "37": {
+        "word": "nonam",
+        "full": "nonus, -a, -um",
+        "translation": "ninth",
+        "type": "ordinal accusative singular feminine"
+    },
+    "38": {
+        "word": "nonas",
+        "full": "nonus, -a, -um",
+        "translation": "ninth",
+        "type": "ordinal accusative plural feminine"
+    },
+    "39": {
+        "word": "aetas",
+        "full": "aetas, aetatis, f.",
+        "translation": "period of life, life, age, an age, time",
+        "type": "nominative singular"
+    },
+    "40": {
+        "word": "menti",
+        "full": "mens, mentis, f.",
+        "translation": "mind, thought, intention",
+        "type": "locative singular"
+    },
+    "41": {
+        "word": "mente",
+        "full": "mens, mentis, f.",
+        "translation": "mind, thought, intention",
+        "type": "locative singular"
+    },
+    "42": {
+        "word": "acris",
+        "full": "acer, acris, acre",
+        "translation": "sharp, keen, eager; severe, fierce",
+        "type": "positive genitive singular masculine"
+    },
+    "43": {
+        "word": "acrem",
+        "full": "acer, acris, acre",
+        "translation": "sharp, keen, eager; severe, fierce",
+        "type": "positive accusative singular masculine"
+    },
+    "44": {
+        "word": "acres",
+        "full": "acer, acris, acre",
+        "translation": "sharp, keen, eager; severe, fierce",
+        "type": "positive nominative plural masculine"
+    },
+    "45": {
+        "word": "acrum",
+        "full": "acer, acris, acre",
+        "translation": "sharp, keen, eager; severe, fierce",
+        "type": "positive genitive plural masculine"
+    },
+    "46": {
+        "word": "acria",
+        "full": "acer, acris, acre",
+        "translation": "sharp, keen, eager; severe, fierce",
+        "type": "positive nominative plural neuter"
+    },
+    "47": {
+        "word": "brevi",
+        "full": "brevis, breve",
+        "translation": "short, small, brief",
+        "type": "positive dative singular masculine"
+    },
+    "48": {
+        "word": "breve",
+        "full": "brevis, breve",
+        "translation": "short, small, brief",
+        "type": "positive ablative singular masculine"
+    },
+    "49": {
+        "word": "celer",
+        "full": "celer, celeris, celere",
+        "translation": "swift, quick, rapid",
+        "type": "positive nominative singular masculine"
+    },
+    "50": {
+        "word": "dulci",
+        "full": "dulcis, dulce",
+        "translation": "sweet; pleasant, agreeable",
+        "type": "positive dative singular masculine"
+    },
+    "51": {
+        "word": "dulce",
+        "full": "dulcis, dulce",
+        "translation": "sweet; pleasant, agreeable",
+        "type": "positive ablative singular masculine"
+    },
+    "52": {
+        "word": "forti",
+        "full": "fortis, forte",
+        "translation": "strong, brave",
+        "type": "positive dative singular masculine"
+    },
+    "53": {
+        "word": "forte",
+        "full": "fortis, forte",
+        "translation": "strong, brave",
+        "type": "positive ablative singular masculine"
+    },
+    "54": {
+        "word": "longi",
+        "full": "longus, -a, -um",
+        "translation": "long",
+        "type": "positive genitive singular masculine"
+    },
+    "55": {
+        "word": "longo",
+        "full": "longus, -a, -um",
+        "translation": "long",
+        "type": "positive dative singular masculine"
+    },
+    "56": {
+        "word": "longe",
+        "full": "longus, -a, -um",
+        "translation": "long",
+        "type": "positive vocative singular masculine"
+    },
+    "57": {
+        "word": "longa",
+        "full": "longus, -a, -um",
+        "translation": "long",
+        "type": "positive nominative singular feminine"
+    },
+    "58": {
+        "word": "omnis",
+        "full": "omnis, omne",
+        "translation": "every, all",
+        "type": "positive genitive singular masculine"
+    },
+    "59": {
+        "word": "omnem",
+        "full": "omnis, omne",
+        "translation": "every, all",
+        "type": "positive accusative singular masculine"
+    },
+    "60": {
+        "word": "omnes",
+        "full": "omnis, omne",
+        "translation": "every, all",
+        "type": "positive nominative plural masculine"
+    },
+    "61": {
+        "word": "omnum",
+        "full": "omnis, omne",
+        "translation": "every, all",
+        "type": "positive genitive plural masculine"
+    },
+    "62": {
+        "word": "omnia",
+        "full": "omnis, omne",
+        "translation": "every, all",
+        "type": "positive nominative plural neuter"
+    },
+    "63": {
+        "word": "senex",
+        "full": "senex, senis, m.",
+        "translation": "old, aged; old man",
+        "type": "nominative singular"
+    },
+    "64": {
+        "word": "senis",
+        "full": "senex, senis, m.",
+        "translation": "old, aged; old man",
+        "type": "genitive singular"
+    },
+    "65": {
+        "word": "senem",
+        "full": "senex, senis, m.",
+        "translation": "old, aged; old man",
+        "type": "accusative singular"
+    },
+    "66": {
+        "word": "senes",
+        "full": "senex, senis, m.",
+        "translation": "old, aged; old man",
+        "type": "nominative plural"
+    },
+    "67": {
+        "word": "senum",
+        "full": "senex, senis, m.",
+        "translation": "old, aged; old man",
+        "type": "genitive plural"
+    },
+    "68": {
+        "word": "senia",
+        "full": "senex, senis, m.",
+        "translation": "old, aged; old man",
+        "type": "positive nominative plural neuter"
+    },
+    "69": {
+        "word": "regis",
+        "full": "rego, regere, rexi, rectum",
+        "translation": "to rule, guide, direct",
+        "type": "present active indicative 2nd person singular"
+    },
+    "70": {
+        "word": "regit",
+        "full": "rego, regere, rexi, rectum",
+        "translation": "to rule, guide, direct",
+        "type": "present active indicative 3rd person singular"
+    },
+    "71": {
+        "word": "regam",
+        "full": "rego, regere, rexi, rectum",
+        "translation": "to rule, guide, direct",
+        "type": "future active indicative 1st person singular"
+    },
+    "72": {
+        "word": "reges",
+        "full": "rego, regere, rexi, rectum",
+        "translation": "to rule, guide, direct",
+        "type": "future active indicative 2nd person singular"
+    },
+    "73": {
+        "word": "reget",
+        "full": "rego, regere, rexi, rectum",
+        "translation": "to rule, guide, direct",
+        "type": "future active indicative 3rd person singular"
+    },
+    "74": {
+        "word": "rexit",
+        "full": "rego, regere, rexi, rectum",
+        "translation": "to rule, guide, direct",
+        "type": "perfect active indicative 3rd person singular"
+    },
+    "75": {
+        "word": "cujus",
+        "full": "qui, quae, quod",
+        "translation": "who, which, what, that",
+        "type": "genitive singular"
+    },
+    "76": {
+        "word": "caeci",
+        "full": "caecus, -a, -um",
+        "translation": "blind",
+        "type": "positive genitive singular masculine"
+    },
+    "77": {
+        "word": "caeco",
+        "full": "caecus, -a, -um",
+        "translation": "blind",
+        "type": "positive dative singular masculine"
+    },
+    "78": {
+        "word": "caece",
+        "full": "caecus, -a, -um",
+        "translation": "blind",
+        "type": "positive vocative singular masculine"
+    },
+    "79": {
+        "word": "caeca",
+        "full": "caecus, -a, -um",
+        "translation": "blind",
+        "type": "positive nominative singular feminine"
+    },
+    "80": {
+        "word": "levis",
+        "full": "levis, leve",
+        "translation": "light, slight, easy, trivial",
+        "type": "positive genitive singular masculine"
+    },
+    "81": {
+        "word": "levem",
+        "full": "levis, leve",
+        "translation": "light, slight, easy, trivial",
+        "type": "positive accusative singular masculine"
+    },
+    "82": {
+        "word": "leves",
+        "full": "levis, leve",
+        "translation": "light, slight, easy, trivial",
+        "type": "positive nominative plural masculine"
+    },
+    "83": {
+        "word": "levum",
+        "full": "levis, leve",
+        "translation": "light, slight, easy, trivial",
+        "type": "positive genitive plural masculine"
+    },
+    "84": {
+        "word": "levia",
+        "full": "levis, leve",
+        "translation": "light, slight, easy, trivial",
+        "type": "positive nominative plural neuter"
+    },
+    "85": {
+        "word": "coepe",
+        "full": "-, coepisse, coepi, coeptum",
+        "translation": "began (only used in the perfect system)",
+        "type": "present active imperative 2nd person singular"
+    },
+    "86": {
+        "word": "coepi",
+        "full": "-, coepisse, coepi, coeptum",
+        "translation": "began (only used in the perfect system)",
+        "type": "perfect active indicative 1st person singular"
+    },
+    "87": {
+        "word": "cupio",
+        "full": "cupio, cupere, cupivi, cupitum",
+        "translation": "to desire, wish, long for",
+        "type": "present active indicative 1st person singular"
+    },
+    "88": {
+        "word": "cupis",
+        "full": "cupio, cupere, cupivi, cupitum",
+        "translation": "to desire, wish, long for",
+        "type": "present active indicative 2nd person singular"
+    },
+    "89": {
+        "word": "cupit",
+        "full": "cupio, cupere, cupivi, cupitum",
+        "translation": "to desire, wish, long for",
+        "type": "present active indicative 3rd person singular"
+    },
+    "90": {
+        "word": "deleo",
+        "full": "deleo, delere, delevi, deletum",
+        "translation": "to destroy, wipe out, erase",
+        "type": "present active indicative 1st person singular"
+    },
+    "91": {
+        "word": "deles",
+        "full": "deleo, delere, delevi, deletum",
+        "translation": "to destroy, wipe out, erase",
+        "type": "present active indicative 2nd person singular"
+    },
+    "92": {
+        "word": "delet",
+        "full": "deleo, delere, delevi, deletum",
+        "translation": "to destroy, wipe out, erase",
+        "type": "present active indicative 3rd person singular"
+    }
+}
