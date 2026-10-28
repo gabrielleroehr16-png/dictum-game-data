@@ -1,0 +1,1790 @@
+{
+    "1": {
+        "word": "locus",
+        "full": "locus, -i, m.",
+        "translation": "place; passage in literature (loca, -orum, n.: places, regions)",
+        "type": "nominative singular"
+    },
+    "2": {
+        "word": "locos",
+        "full": "locus, -i, m.",
+        "translation": "place; passage in literature (loca, -orum, n.: places, regions)",
+        "type": "nominative singular"
+    },
+    "3": {
+        "word": "locum",
+        "full": "locus, -i, m.",
+        "translation": "place; passage in literature (loca, -orum, n.: places, regions)",
+        "type": "accusative singular"
+    },
+    "4": {
+        "word": "locom",
+        "full": "locus, -i, m.",
+        "translation": "place; passage in literature (loca, -orum, n.: places, regions)",
+        "type": "accusative singular"
+    },
+    "5": {
+        "word": "locis",
+        "full": "locus, -i, m.",
+        "translation": "place; passage in literature (loca, -orum, n.: places, regions)",
+        "type": "locative plural"
+    },
+    "6": {
+        "word": "morbe",
+        "full": "morbus, -i, m.",
+        "translation": "disease, sickness",
+        "type": "vocative singular"
+    },
+    "7": {
+        "word": "morbi",
+        "full": "morbus, -i, m.",
+        "translation": "disease, sickness",
+        "type": "genitive singular"
+    },
+    "8": {
+        "word": "morbo",
+        "full": "morbus, -i, m.",
+        "translation": "disease, sickness",
+        "type": "dative singular"
+    },
+    "9": {
+        "word": "studi",
+        "full": "studium, -ii, n.",
+        "translation": "eagerness, zeal, pursuit, study",
+        "type": "genitive singular"
+    },
+    "10": {
+        "word": "horum",
+        "full": "hic, haec, hoc",
+        "translation": "this; the latter; he, she, it, they",
+        "type": "genitive plural masculine"
+    },
+    "11": {
+        "word": "hibus",
+        "full": "hic, haec, hoc",
+        "translation": "this; the latter; he, she, it, they",
+        "type": "dative plural"
+    },
+    "12": {
+        "word": "harum",
+        "full": "hic, haec, hoc",
+        "translation": "this; the latter; he, she, it, they",
+        "type": "genitive plural feminine"
+    },
+    "13": {
+        "word": "huius",
+        "full": "hic, haec, hoc",
+        "translation": "this; the latter; he, she, it, they",
+        "type": "genitive singular"
+    },
+    "14": {
+        "word": "illum",
+        "full": "ille, illa, illud",
+        "translation": "that; the former; the famous; he, she, it, they",
+        "type": "accusative singular masculine"
+    },
+    "15": {
+        "word": "illis",
+        "full": "ille, illa, illud",
+        "translation": "that; the former; the famous; he, she, it, they",
+        "type": "dative plural"
+    },
+    "16": {
+        "word": "illos",
+        "full": "ille, illa, illud",
+        "translation": "that; the former; the famous; he, she, it, they",
+        "type": "accusative plural masculine"
+    },
+    "17": {
+        "word": "illam",
+        "full": "ille, illa, illud",
+        "translation": "that; the former; the famous; he, she, it, they",
+        "type": "accusative singular feminine"
+    },
+    "18": {
+        "word": "illae",
+        "full": "ille, illa, illud",
+        "translation": "that; the former; the famous; he, she, it, they",
+        "type": "nominative plural feminine"
+    },
+    "19": {
+        "word": "illas",
+        "full": "ille, illa, illud",
+        "translation": "that; the former; the famous; he, she, it, they",
+        "type": "accusative plural feminine"
+    },
+    "20": {
+        "word": "illud",
+        "full": "ille, illa, illud",
+        "translation": "that; the former; the famous; he, she, it, they",
+        "type": "nominative singular neuter"
+    },
+    "21": {
+        "word": "istum",
+        "full": "iste, ista, istud",
+        "translation": "that of yours, that; such (sometimes with contemptuous force)",
+        "type": "accusative singular masculine"
+    },
+    "22": {
+        "word": "istis",
+        "full": "iste, ista, istud",
+        "translation": "that of yours, that; such (sometimes with contemptuous force)",
+        "type": "dative plural"
+    },
+    "23": {
+        "word": "istos",
+        "full": "iste, ista, istud",
+        "translation": "that of yours, that; such (sometimes with contemptuous force)",
+        "type": "accusative plural masculine"
+    },
+    "24": {
+        "word": "istam",
+        "full": "iste, ista, istud",
+        "translation": "that of yours, that; such (sometimes with contemptuous force)",
+        "type": "accusative singular feminine"
+    },
+    "25": {
+        "word": "istae",
+        "full": "iste, ista, istud",
+        "translation": "that of yours, that; such (sometimes with contemptuous force)",
+        "type": "nominative plural feminine"
+    },
+    "26": {
+        "word": "istas",
+        "full": "iste, ista, istud",
+        "translation": "that of yours, that; such (sometimes with contemptuous force)",
+        "type": "accusative plural feminine"
+    },
+    "27": {
+        "word": "istud",
+        "full": "iste, ista, istud",
+        "translation": "that of yours, that; such (sometimes with contemptuous force)",
+        "type": "nominative singular neuter"
+    },
+    "28": {
+        "word": "alium",
+        "full": "alius, alia, aliud",
+        "translation": "other, another (alii...alii: some...others)",
+        "type": "positive accusative singular masculine"
+    },
+    "29": {
+        "word": "aliis",
+        "full": "alius, alia, aliud",
+        "translation": "other, another (alii...alii: some...others)",
+        "type": "positive dative plural masculine"
+    },
+    "30": {
+        "word": "alios",
+        "full": "alius, alia, aliud",
+        "translation": "other, another (alii...alii: some...others)",
+        "type": "positive accusative plural masculine"
+    },
+    "31": {
+        "word": "aliam",
+        "full": "alius, alia, aliud",
+        "translation": "other, another (alii...alii: some...others)",
+        "type": "positive accusative singular feminine"
+    },
+    "32": {
+        "word": "aliae",
+        "full": "alius, alia, aliud",
+        "translation": "other, another (alii...alii: some...others)",
+        "type": "positive nominative plural feminine"
+    },
+    "33": {
+        "word": "alias",
+        "full": "alius, alia, aliud",
+        "translation": "other, another (alii...alii: some...others)",
+        "type": "positive accusative plural feminine"
+    },
+    "34": {
+        "word": "alius",
+        "full": "alius, alia, aliud",
+        "translation": "other, another (alii...alii: some...others)",
+        "type": "positive nominative singular masculine"
+    },
+    "35": {
+        "word": "aliud",
+        "full": "alius, alia, aliud",
+        "translation": "other, another (alii...alii: some...others)",
+        "type": "positive nominative singular neuter"
+    },
+    "36": {
+        "word": "aliut",
+        "full": "alius, alia, aliud",
+        "translation": "other, another (alii...alii: some...others)",
+        "type": "positive nominative singular neuter"
+    },
+    "37": {
+        "word": "alter",
+        "full": "alter, altera, alterum",
+        "translation": "the other (of two), second",
+        "type": "positive nominative singular masculine"
+    },
+    "38": {
+        "word": "nullo",
+        "full": "nullus, -a, -um",
+        "translation": "not any, no, none",
+        "type": "positive ablative singular masculine"
+    },
+    "39": {
+        "word": "nulli",
+        "full": "nullus, -a, -um",
+        "translation": "not any, no, none",
+        "type": "positive nominative plural masculine"
+    },
+    "40": {
+        "word": "nulla",
+        "full": "nullus, -a, -um",
+        "translation": "not any, no, none",
+        "type": "positive nominative singular feminine"
+    },
+    "41": {
+        "word": "solum",
+        "full": "solus, -a, -um",
+        "translation": "alone, only, the only",
+        "type": "positive accusative singular masculine"
+    },
+    "42": {
+        "word": "solis",
+        "full": "solus, -a, -um",
+        "translation": "alone, only, the only",
+        "type": "positive dative plural masculine"
+    },
+    "43": {
+        "word": "solos",
+        "full": "solus, -a, -um",
+        "translation": "alone, only, the only",
+        "type": "positive accusative plural masculine"
+    },
+    "44": {
+        "word": "solam",
+        "full": "solus, -a, -um",
+        "translation": "alone, only, the only",
+        "type": "positive accusative singular feminine"
+    },
+    "45": {
+        "word": "solae",
+        "full": "solus, -a, -um",
+        "translation": "alone, only, the only",
+        "type": "positive nominative plural feminine"
+    },
+    "46": {
+        "word": "solas",
+        "full": "solus, -a, -um",
+        "translation": "alone, only, the only",
+        "type": "positive accusative plural feminine"
+    },
+    "47": {
+        "word": "solus",
+        "full": "solus, -a, -um",
+        "translation": "alone, only, the only",
+        "type": "positive nominative singular masculine"
+    },
+    "48": {
+        "word": "totum",
+        "full": "totus, -a, -um",
+        "translation": "whole, entire",
+        "type": "positive accusative singular masculine"
+    },
+    "49": {
+        "word": "totis",
+        "full": "totus, -a, -um",
+        "translation": "whole, entire",
+        "type": "positive dative plural masculine"
+    },
+    "50": {
+        "word": "totos",
+        "full": "totus, -a, -um",
+        "translation": "whole, entire",
+        "type": "positive accusative plural masculine"
+    },
+    "51": {
+        "word": "totam",
+        "full": "totus, -a, -um",
+        "translation": "whole, entire",
+        "type": "positive accusative singular feminine"
+    },
+    "52": {
+        "word": "totae",
+        "full": "totus, -a, -um",
+        "translation": "whole, entire",
+        "type": "positive nominative plural feminine"
+    },
+    "53": {
+        "word": "totas",
+        "full": "totus, -a, -um",
+        "translation": "whole, entire",
+        "type": "positive accusative plural feminine"
+    },
+    "54": {
+        "word": "totus",
+        "full": "totus, -a, -um",
+        "translation": "whole, entire",
+        "type": "positive nominative singular masculine"
+    },
+    "55": {
+        "word": "ullum",
+        "full": "ullus, -a, -um",
+        "translation": "any",
+        "type": "positive accusative singular masculine"
+    },
+    "56": {
+        "word": "ullis",
+        "full": "ullus, -a, -um",
+        "translation": "any",
+        "type": "positive dative plural masculine"
+    },
+    "57": {
+        "word": "ullos",
+        "full": "ullus, -a, -um",
+        "translation": "any",
+        "type": "positive accusative plural masculine"
+    },
+    "58": {
+        "word": "ullam",
+        "full": "ullus, -a, -um",
+        "translation": "any",
+        "type": "positive accusative singular feminine"
+    },
+    "59": {
+        "word": "ullae",
+        "full": "ullus, -a, -um",
+        "translation": "any",
+        "type": "positive nominative plural feminine"
+    },
+    "60": {
+        "word": "ullas",
+        "full": "ullus, -a, -um",
+        "translation": "any",
+        "type": "positive accusative plural feminine"
+    },
+    "61": {
+        "word": "ullus",
+        "full": "ullus, -a, -um",
+        "translation": "any",
+        "type": "positive nominative singular masculine"
+    },
+    "62": {
+        "word": "unius",
+        "full": "unus, -a, -um",
+        "translation": "one, single, alone",
+        "type": "positive genitive singular masculine"
+    },
+    "63": {
+        "word": "utrum",
+        "full": "uter, utra, utrum",
+        "translation": "either, which (of two)",
+        "type": "positive accusative singular masculine"
+    },
+    "64": {
+        "word": "utris",
+        "full": "uter, utra, utrum",
+        "translation": "either, which (of two)",
+        "type": "positive dative plural masculine"
+    },
+    "65": {
+        "word": "utros",
+        "full": "uter, utra, utrum",
+        "translation": "either, which (of two)",
+        "type": "positive accusative plural masculine"
+    },
+    "66": {
+        "word": "utram",
+        "full": "uter, utra, utrum",
+        "translation": "either, which (of two)",
+        "type": "positive accusative singular feminine"
+    },
+    "67": {
+        "word": "utrae",
+        "full": "uter, utra, utrum",
+        "translation": "either, which (of two)",
+        "type": "positive nominative plural feminine"
+    },
+    "68": {
+        "word": "utras",
+        "full": "uter, utra, utrum",
+        "translation": "either, which (of two)",
+        "type": "positive accusative plural feminine"
+    },
+    "69": {
+        "word": "nimis",
+        "full": "nimis, nimium",
+        "translation": "too, too much, excessively",
+        "type": "uninflected"
+    },
+    "70": {
+        "word": "horae",
+        "full": "hora, -ae, f.",
+        "translation": "hour, time",
+        "type": "genitive singular"
+    },
+    "71": {
+        "word": "horai",
+        "full": "hora, -ae, f.",
+        "translation": "hour, time",
+        "type": "genitive singular"
+    },
+    "72": {
+        "word": "horad",
+        "full": "hora, -ae, f.",
+        "translation": "hour, time",
+        "type": "ablative singular"
+    },
+    "73": {
+        "word": "horam",
+        "full": "hora, -ae, f.",
+        "translation": "hour, time",
+        "type": "accusative singular"
+    },
+    "74": {
+        "word": "horis",
+        "full": "hora, -ae, f.",
+        "translation": "hour, time",
+        "type": "locative plural"
+    },
+    "75": {
+        "word": "horas",
+        "full": "hora, -ae, f.",
+        "translation": "hour, time",
+        "type": "accusative plural"
+    },
+    "76": {
+        "word": "timor",
+        "full": "timor, timoris, m.",
+        "translation": "fear",
+        "type": "nominative singular"
+    },
+    "77": {
+        "word": "beati",
+        "full": "beatus, -a, -um",
+        "translation": "happy, fortunate, blessed",
+        "type": "positive genitive singular masculine"
+    },
+    "78": {
+        "word": "beato",
+        "full": "beatus, -a, -um",
+        "translation": "happy, fortunate, blessed",
+        "type": "positive dative singular masculine"
+    },
+    "79": {
+        "word": "beate",
+        "full": "beatus, -a, -um",
+        "translation": "happy, fortunate, blessed",
+        "type": "positive vocative singular masculine"
+    },
+    "80": {
+        "word": "beata",
+        "full": "beatus, -a, -um",
+        "translation": "happy, fortunate, blessed",
+        "type": "positive nominative singular feminine"
+    },
+    "81": {
+        "word": "audio",
+        "full": "audio, audire, audivi, auditum",
+        "translation": "to hear, listen to",
+        "type": "present active indicative 1st person singular"
+    },
+    "82": {
+        "word": "audis",
+        "full": "audio, audire, audivi, auditum",
+        "translation": "to hear, listen to",
+        "type": "present active indicative 2nd person singular"
+    },
+    "83": {
+        "word": "audit",
+        "full": "audio, audire, audivi, auditum",
+        "translation": "to hear, listen to",
+        "type": "present active indicative 3rd person singular"
+    },
+    "84": {
+        "word": "capio",
+        "full": "capio, capere, cepi, captum",
+        "translation": "to take, capture, seize, get",
+        "type": "present active indicative 1st person singular"
+    },
+    "85": {
+        "word": "capis",
+        "full": "capio, capere, cepi, captum",
+        "translation": "to take, capture, seize, get",
+        "type": "present active indicative 2nd person singular"
+    },
+    "86": {
+        "word": "capit",
+        "full": "capio, capere, cepi, captum",
+        "translation": "to take, capture, seize, get",
+        "type": "present active indicative 3rd person singular"
+    },
+    "87": {
+        "word": "cepit",
+        "full": "capio, capere, cepi, captum",
+        "translation": "to take, capture, seize, get",
+        "type": "perfect active indicative 3rd person singular"
+    },
+    "88": {
+        "word": "dicis",
+        "full": "dico, dicere, dixi, dictum",
+        "translation": "to say, tell, speak; name, call",
+        "type": "present active indicative 2nd person singular"
+    },
+    "89": {
+        "word": "dicit",
+        "full": "dico, dicere, dixi, dictum",
+        "translation": "to say, tell, speak; name, call",
+        "type": "present active indicative 3rd person singular"
+    },
+    "90": {
+        "word": "dicam",
+        "full": "dico, dicere, dixi, dictum",
+        "translation": "to say, tell, speak; name, call",
+        "type": "future active indicative 1st person singular"
+    },
+    "91": {
+        "word": "dices",
+        "full": "dico, dicere, dixi, dictum",
+        "translation": "to say, tell, speak; name, call",
+        "type": "future active indicative 2nd person singular"
+    },
+    "92": {
+        "word": "dicet",
+        "full": "dico, dicere, dixi, dictum",
+        "translation": "to say, tell, speak; name, call",
+        "type": "future active indicative 3rd person singular"
+    },
+    "93": {
+        "word": "dixit",
+        "full": "dico, dicere, dixi, dictum",
+        "translation": "to say, tell, speak; name, call",
+        "type": "perfect active indicative 3rd person singular"
+    },
+    "94": {
+        "word": "facio",
+        "full": "facio, facere, feci, factum",
+        "translation": "to make, do, accomplish",
+        "type": "present active indicative 1st person singular"
+    },
+    "95": {
+        "word": "facis",
+        "full": "facio, facere, feci, factum",
+        "translation": "to make, do, accomplish",
+        "type": "present active indicative 2nd person singular"
+    },
+    "96": {
+        "word": "facit",
+        "full": "facio, facere, feci, factum",
+        "translation": "to make, do, accomplish",
+        "type": "present active indicative 3rd person singular"
+    },
+    "97": {
+        "word": "fecit",
+        "full": "facio, facere, feci, factum",
+        "translation": "to make, do, accomplish",
+        "type": "perfect active indicative 3rd person singular"
+    },
+    "98": {
+        "word": "fugio",
+        "full": "fugio, fugere, fugi, fugiturum",
+        "translation": "to flee, hurry away; go into exile; avoid, shun",
+        "type": "present active indicative 1st person singular"
+    },
+    "99": {
+        "word": "fugis",
+        "full": "fugio, fugere, fugi, fugiturum",
+        "translation": "to flee, hurry away; go into exile; avoid, shun",
+        "type": "present active indicative 2nd person singular"
+    },
+    "100": {
+        "word": "fugit",
+        "full": "fugio, fugere, fugi, fugiturum",
+        "translation": "to flee, hurry away; go into exile; avoid, shun",
+        "type": "present active indicative 3rd person singular"
+    },
+    "101": {
+        "word": "venio",
+        "full": "venio, venire, veni, ventum",
+        "translation": "to come",
+        "type": "present active indicative 1st person singular"
+    },
+    "102": {
+        "word": "venis",
+        "full": "venio, venire, veni, ventum",
+        "translation": "to come",
+        "type": "present active indicative 2nd person singular"
+    },
+    "103": {
+        "word": "venit",
+        "full": "venio, venire, veni, ventum",
+        "translation": "to come",
+        "type": "present active indicative 3rd person singular"
+    },
+    "104": {
+        "word": "vivis",
+        "full": "vivo, vivere, vixi, victum",
+        "translation": "to live",
+        "type": "present active indicative 2nd person singular"
+    },
+    "105": {
+        "word": "vivit",
+        "full": "vivo, vivere, vixi, victum",
+        "translation": "to live",
+        "type": "present active indicative 3rd person singular"
+    },
+    "106": {
+        "word": "vivam",
+        "full": "vivo, vivere, vixi, victum",
+        "translation": "to live",
+        "type": "future active indicative 1st person singular"
+    },
+    "107": {
+        "word": "vives",
+        "full": "vivo, vivere, vixi, victum",
+        "translation": "to live",
+        "type": "future active indicative 2nd person singular"
+    },
+    "108": {
+        "word": "vivet",
+        "full": "vivo, vivere, vixi, victum",
+        "translation": "to live",
+        "type": "future active indicative 3rd person singular"
+    },
+    "109": {
+        "word": "vixit",
+        "full": "vivo, vivere, vixi, victum",
+        "translation": "to live",
+        "type": "perfect active indicative 3rd person singular"
+    },
+    "110": {
+        "word": "caput",
+        "full": "caput, capitis, n.",
+        "translation": "head; leader; beginning; life; heading; chapter",
+        "type": "nominative singular"
+    },
+    "111": {
+        "word": "tibei",
+        "full": "tu, tui",
+        "translation": "you",
+        "type": "dative singular masculine"
+    },
+    "112": {
+        "word": "eorum",
+        "full": "is, ea, id",
+        "translation": "this, that; he, she, it (demonstrative)",
+        "type": "genitive plural masculine"
+    },
+    "113": {
+        "word": "earum",
+        "full": "is, ea, id",
+        "translation": "this, that; he, she, it (demonstrative)",
+        "type": "genitive plural feminine"
+    },
+    "114": {
+        "word": "iidem",
+        "full": "idem, eadem, idem",
+        "translation": "the same (demonstrative)",
+        "type": "nominative plural masculine"
+    },
+    "115": {
+        "word": "isdem",
+        "full": "idem, eadem, idem",
+        "translation": "the same (demonstrative)",
+        "type": "dative plural"
+    },
+    "116": {
+        "word": "eidem",
+        "full": "idem, eadem, idem",
+        "translation": "the same (demonstrative)",
+        "type": "dative singular"
+    },
+    "117": {
+        "word": "eodem",
+        "full": "idem, eadem, idem",
+        "translation": "the same (demonstrative)",
+        "type": "ablative singular masculine"
+    },
+    "118": {
+        "word": "eadem",
+        "full": "idem, eadem, idem",
+        "translation": "the same (demonstrative)",
+        "type": "nominative singular feminine"
+    },
+    "119": {
+        "word": "amici",
+        "full": "amicus, -a, -um",
+        "translation": "friendly",
+        "type": "positive genitive singular masculine"
+    },
+    "120": {
+        "word": "amico",
+        "full": "amicus, -a, -um",
+        "translation": "friendly",
+        "type": "positive dative singular masculine"
+    },
+    "121": {
+        "word": "amice",
+        "full": "amicus, -a, -um",
+        "translation": "friendly",
+        "type": "positive vocative singular masculine"
+    },
+    "122": {
+        "word": "amica",
+        "full": "amicus, -a, -um",
+        "translation": "friendly",
+        "type": "positive nominative singular feminine"
+    },
+    "123": {
+        "word": "carus",
+        "full": "carus, -a, -um",
+        "translation": "dear",
+        "type": "positive nominative singular masculine"
+    },
+    "124": {
+        "word": "carum",
+        "full": "carus, -a, -um",
+        "translation": "dear",
+        "type": "positive accusative singular masculine"
+    },
+    "125": {
+        "word": "caris",
+        "full": "carus, -a, -um",
+        "translation": "dear",
+        "type": "positive dative plural masculine"
+    },
+    "126": {
+        "word": "caros",
+        "full": "carus, -a, -um",
+        "translation": "dear",
+        "type": "positive accusative plural masculine"
+    },
+    "127": {
+        "word": "carae",
+        "full": "carus, -a, -um",
+        "translation": "dear",
+        "type": "positive genitive singular feminine"
+    },
+    "128": {
+        "word": "caram",
+        "full": "carus, -a, -um",
+        "translation": "dear",
+        "type": "positive accusative singular feminine"
+    },
+    "129": {
+        "word": "caras",
+        "full": "carus, -a, -um",
+        "translation": "dear",
+        "type": "positive accusative plural feminine"
+    },
+    "130": {
+        "word": "mitto",
+        "full": "mitto, mittere, misi, missum",
+        "translation": "to send, let go",
+        "type": "present active indicative 1st person singular"
+    },
+    "131": {
+        "word": "mitte",
+        "full": "mitto, mittere, misi, missum",
+        "translation": "to send, let go",
+        "type": "present active imperative 2nd person singular"
+    },
+    "132": {
+        "word": "misit",
+        "full": "mitto, mittere, misi, missum",
+        "translation": "to send, let go",
+        "type": "perfect active indicative 3rd person singular"
+    },
+    "133": {
+        "word": "senti",
+        "full": "sentio, sentire, sensi, sensum",
+        "translation": "to feel, perceive, think, experience",
+        "type": "present active imperative 2nd person singular"
+    },
+    "134": {
+        "word": "sensi",
+        "full": "sentio, sentire, sensi, sensum",
+        "translation": "to feel, perceive, think, experience",
+        "type": "perfect active indicative 1st person singular"
+    },
+    "135": {
+        "word": "annus",
+        "full": "annus, -i, m.",
+        "translation": "year",
+        "type": "nominative singular"
+    },
+    "136": {
+        "word": "annos",
+        "full": "annus, -i, m.",
+        "translation": "year",
+        "type": "nominative singular"
+    },
+    "137": {
+        "word": "annum",
+        "full": "annus, -i, m.",
+        "translation": "year",
+        "type": "accusative singular"
+    },
+    "138": {
+        "word": "annom",
+        "full": "annus, -i, m.",
+        "translation": "year",
+        "type": "accusative singular"
+    },
+    "139": {
+        "word": "annis",
+        "full": "annus, -i, m.",
+        "translation": "year",
+        "type": "locative plural"
+    },
+    "140": {
+        "word": "asiae",
+        "full": "Asia, -ae, f.",
+        "translation": "Asia",
+        "type": "genitive singular"
+    },
+    "141": {
+        "word": "asiai",
+        "full": "Asia, -ae, f.",
+        "translation": "Asia",
+        "type": "genitive singular"
+    },
+    "142": {
+        "word": "asiad",
+        "full": "Asia, -ae, f.",
+        "translation": "Asia",
+        "type": "ablative singular"
+    },
+    "143": {
+        "word": "asiam",
+        "full": "Asia, -ae, f.",
+        "translation": "Asia",
+        "type": "accusative singular"
+    },
+    "144": {
+        "word": "asium",
+        "full": "Asia, -ae, f.",
+        "translation": "Asia",
+        "type": "genitive plural"
+    },
+    "145": {
+        "word": "asiis",
+        "full": "Asia, -ae, f.",
+        "translation": "Asia",
+        "type": "locative plural"
+    },
+    "146": {
+        "word": "asias",
+        "full": "Asia, -ae, f.",
+        "translation": "Asia",
+        "type": "accusative plural"
+    },
+    "147": {
+        "word": "mater",
+        "full": "mater, matris, f.",
+        "translation": "mother",
+        "type": "nominative singular"
+    },
+    "148": {
+        "word": "matri",
+        "full": "mater, matris, f.",
+        "translation": "mother",
+        "type": "locative singular"
+    },
+    "149": {
+        "word": "matre",
+        "full": "mater, matris, f.",
+        "translation": "mother",
+        "type": "locative singular"
+    },
+    "150": {
+        "word": "pater",
+        "full": "pater, patris, m.",
+        "translation": "father",
+        "type": "nominative singular"
+    },
+    "151": {
+        "word": "patri",
+        "full": "pater, patris, m.",
+        "translation": "father",
+        "type": "locative singular"
+    },
+    "152": {
+        "word": "patre",
+        "full": "pater, patris, m.",
+        "translation": "father",
+        "type": "locative singular"
+    },
+    "153": {
+        "word": "nuper",
+        "full": "nuper",
+        "translation": "recently",
+        "type": "uninflected"
+    },
+    "154": {
+        "word": "amisi",
+        "full": "amitto, amittere, amisi, amissum",
+        "translation": "to lose, let go",
+        "type": "perfect active indicative 1st person singular"
+    },
+    "155": {
+        "word": "cadis",
+        "full": "cado, cadere, cecidi, casurum",
+        "translation": "to fall ('casum' is an alternative fourth principal part)",
+        "type": "present active indicative 2nd person singular"
+    },
+    "156": {
+        "word": "cadit",
+        "full": "cado, cadere, cecidi, casurum",
+        "translation": "to fall ('casum' is an alternative fourth principal part)",
+        "type": "present active indicative 3rd person singular"
+    },
+    "157": {
+        "word": "cadam",
+        "full": "cado, cadere, cecidi, casurum",
+        "translation": "to fall ('casum' is an alternative fourth principal part)",
+        "type": "future active indicative 1st person singular"
+    },
+    "158": {
+        "word": "cades",
+        "full": "cado, cadere, cecidi, casurum",
+        "translation": "to fall ('casum' is an alternative fourth principal part)",
+        "type": "future active indicative 2nd person singular"
+    },
+    "159": {
+        "word": "cadet",
+        "full": "cado, cadere, cecidi, casurum",
+        "translation": "to fall ('casum' is an alternative fourth principal part)",
+        "type": "future active indicative 3rd person singular"
+    },
+    "160": {
+        "word": "creas",
+        "full": "creo, creare, creavi, creatum",
+        "translation": "to create",
+        "type": "present active indicative 2nd person singular"
+    },
+    "161": {
+        "word": "creat",
+        "full": "creo, creare, creavi, creatum",
+        "translation": "to create",
+        "type": "present active indicative 3rd person singular"
+    },
+    "162": {
+        "word": "facti",
+        "full": "factum, -i, n.",
+        "translation": "deed, act, achievement",
+        "type": "locative singular"
+    },
+    "163": {
+        "word": "facto",
+        "full": "factum, -i, n.",
+        "translation": "deed, act, achievement",
+        "type": "dative singular"
+    },
+    "164": {
+        "word": "facta",
+        "full": "factum, -i, n.",
+        "translation": "deed, act, achievement",
+        "type": "nominative plural"
+    },
+    "165": {
+        "word": "signi",
+        "full": "signum, -i, n.",
+        "translation": "sign, signal, indication, seal",
+        "type": "locative singular"
+    },
+    "166": {
+        "word": "signo",
+        "full": "signum, -i, n.",
+        "translation": "sign, signal, indication, seal",
+        "type": "dative singular"
+    },
+    "167": {
+        "word": "signa",
+        "full": "signum, -i, n.",
+        "translation": "sign, signal, indication, seal",
+        "type": "nominative plural"
+    },
+    "168": {
+        "word": "ipsum",
+        "full": "ipse, ipsa, ipsum",
+        "translation": "myself, yourself, himself, herself, itself (etc.); the very, the actual (intensive)",
+        "type": "accusative singular masculine"
+    },
+    "169": {
+        "word": "ipsis",
+        "full": "ipse, ipsa, ipsum",
+        "translation": "myself, yourself, himself, herself, itself (etc.); the very, the actual (intensive)",
+        "type": "dative plural"
+    },
+    "170": {
+        "word": "ipsos",
+        "full": "ipse, ipsa, ipsum",
+        "translation": "myself, yourself, himself, herself, itself (etc.); the very, the actual (intensive)",
+        "type": "accusative plural masculine"
+    },
+    "171": {
+        "word": "ipsam",
+        "full": "ipse, ipsa, ipsum",
+        "translation": "myself, yourself, himself, herself, itself (etc.); the very, the actual (intensive)",
+        "type": "accusative singular feminine"
+    },
+    "172": {
+        "word": "ipsae",
+        "full": "ipse, ipsa, ipsum",
+        "translation": "myself, yourself, himself, herself, itself (etc.); the very, the actual (intensive)",
+        "type": "nominative plural feminine"
+    },
+    "173": {
+        "word": "ipsas",
+        "full": "ipse, ipsa, ipsum",
+        "translation": "myself, yourself, himself, herself, itself (etc.); the very, the actual (intensive)",
+        "type": "accusative plural feminine"
+    },
+    "174": {
+        "word": "ipsus",
+        "full": "ipse, ipsa, ipsum",
+        "translation": "myself, yourself, himself, herself, itself (etc.); the very, the actual (intensive)",
+        "type": "nominative singular masculine"
+    },
+    "175": {
+        "word": "ipsud",
+        "full": "ipse, ipsa, ipsum",
+        "translation": "myself, yourself, himself, herself, itself (etc.); the very, the actual (intensive)",
+        "type": "nominative singular neuter"
+    },
+    "176": {
+        "word": "docti",
+        "full": "doctus, -a, -um",
+        "translation": "taught, learned, skilled",
+        "type": "positive genitive singular masculine"
+    },
+    "177": {
+        "word": "docto",
+        "full": "doctus, -a, -um",
+        "translation": "taught, learned, skilled",
+        "type": "positive dative singular masculine"
+    },
+    "178": {
+        "word": "docte",
+        "full": "doctus, -a, -um",
+        "translation": "taught, learned, skilled",
+        "type": "positive vocative singular masculine"
+    },
+    "179": {
+        "word": "docta",
+        "full": "doctus, -a, -um",
+        "translation": "taught, learned, skilled",
+        "type": "positive nominative singular feminine"
+    },
+    "180": {
+        "word": "alunt",
+        "full": "alo, alere, alui, altum",
+        "translation": "to nourish, support, sustain, increase, cherish",
+        "type": "present active indicative 3rd person plural"
+    },
+    "181": {
+        "word": "alent",
+        "full": "alo, alere, alui, altum",
+        "translation": "to nourish, support, sustain, increase, cherish",
+        "type": "future active indicative 3rd person plural"
+    },
+    "182": {
+        "word": "alite",
+        "full": "alo, alere, alui, altum",
+        "translation": "to nourish, support, sustain, increase, cherish",
+        "type": "present active imperative 2nd person plural"
+    },
+    "183": {
+        "word": "alito",
+        "full": "alo, alere, alui, altum",
+        "translation": "to nourish, support, sustain, increase, cherish",
+        "type": "future active imperative 2nd person singular"
+    },
+    "184": {
+        "word": "alere",
+        "full": "alo, alere, alui, altum",
+        "translation": "to nourish, support, sustain, increase, cherish",
+        "type": "present active infinitive"
+    },
+    "185": {
+        "word": "aluit",
+        "full": "alo, alere, alui, altum",
+        "translation": "to nourish, support, sustain, increase, cherish",
+        "type": "perfect active indicative 3rd person singular"
+    },
+    "186": {
+        "word": "jungo",
+        "full": "iungo, iungere, iunxi, iunctum",
+        "translation": "to join",
+        "type": "present active indicative 1st person singular"
+    },
+    "187": {
+        "word": "junge",
+        "full": "iungo, iungere, iunxi, iunctum",
+        "translation": "to join",
+        "type": "present active imperative 2nd person singular"
+    },
+    "188": {
+        "word": "junxi",
+        "full": "iungo, iungere, iunxi, iunctum",
+        "translation": "to join",
+        "type": "perfect active indicative 1st person singular"
+    },
+    "189": {
+        "word": "stant",
+        "full": "sto, stare, steti, statum",
+        "translation": "to stand, stand still, stand firm",
+        "type": "present active indicative 3rd person plural"
+    },
+    "190": {
+        "word": "stabo",
+        "full": "sto, stare, steti, statum",
+        "translation": "to stand, stand still, stand firm",
+        "type": "future active indicative 1st person singular"
+    },
+    "191": {
+        "word": "state",
+        "full": "sto, stare, steti, statum",
+        "translation": "to stand, stand still, stand firm",
+        "type": "present active imperative 2nd person plural"
+    },
+    "192": {
+        "word": "stato",
+        "full": "sto, stare, steti, statum",
+        "translation": "to stand, stand still, stand firm",
+        "type": "future active imperative 2nd person singular"
+    },
+    "193": {
+        "word": "stare",
+        "full": "sto, stare, steti, statum",
+        "translation": "to stand, stand still, stand firm",
+        "type": "present active infinitive"
+    },
+    "194": {
+        "word": "steti",
+        "full": "sto, stare, steti, statum",
+        "translation": "to stand, stand still, stand firm",
+        "type": "perfect active indicative 1st person singular"
+    },
+    "195": {
+        "word": "aquae",
+        "full": "aqua, -ae, f.",
+        "translation": "water",
+        "type": "genitive singular"
+    },
+    "196": {
+        "word": "aquai",
+        "full": "aqua, -ae, f.",
+        "translation": "water",
+        "type": "genitive singular"
+    },
+    "197": {
+        "word": "aquad",
+        "full": "aqua, -ae, f.",
+        "translation": "water",
+        "type": "ablative singular"
+    },
+    "198": {
+        "word": "aquam",
+        "full": "aqua, -ae, f.",
+        "translation": "water",
+        "type": "accusative singular"
+    },
+    "199": {
+        "word": "aquum",
+        "full": "aqua, -ae, f.",
+        "translation": "water",
+        "type": "genitive plural"
+    },
+    "200": {
+        "word": "aquis",
+        "full": "aqua, -ae, f.",
+        "translation": "water",
+        "type": "locative plural"
+    },
+    "201": {
+        "word": "aquas",
+        "full": "aqua, -ae, f.",
+        "translation": "water",
+        "type": "accusative plural"
+    },
+    "202": {
+        "word": "artis",
+        "full": "ars, artis, f.",
+        "translation": "art, skill",
+        "type": "genitive singular"
+    },
+    "203": {
+        "word": "artes",
+        "full": "ars, artis, f.",
+        "translation": "art, skill",
+        "type": "nominative plural"
+    },
+    "204": {
+        "word": "artem",
+        "full": "ars, artis, f.",
+        "translation": "art, skill",
+        "type": "accusative singular"
+    },
+    "205": {
+        "word": "artim",
+        "full": "ars, artis, f.",
+        "translation": "art, skill",
+        "type": "accusative singular"
+    },
+    "206": {
+        "word": "artum",
+        "full": "ars, artis, f.",
+        "translation": "art, skill",
+        "type": "genitive plural"
+    },
+    "207": {
+        "word": "auris",
+        "full": "auris, auris, f.",
+        "translation": "ear",
+        "type": "nominative singular"
+    },
+    "208": {
+        "word": "aures",
+        "full": "auris, auris, f.",
+        "translation": "ear",
+        "type": "nominative plural"
+    },
+    "209": {
+        "word": "aurem",
+        "full": "auris, auris, f.",
+        "translation": "ear",
+        "type": "accusative singular"
+    },
+    "210": {
+        "word": "aurim",
+        "full": "auris, auris, f.",
+        "translation": "ear",
+        "type": "accusative singular"
+    },
+    "211": {
+        "word": "aurum",
+        "full": "auris, auris, f.",
+        "translation": "ear",
+        "type": "genitive plural"
+    },
+    "212": {
+        "word": "civis",
+        "full": "civis, civis, m. and f.",
+        "translation": "citizen",
+        "type": "nominative singular"
+    },
+    "213": {
+        "word": "cives",
+        "full": "civis, civis, m. and f.",
+        "translation": "citizen",
+        "type": "nominative plural"
+    },
+    "214": {
+        "word": "civem",
+        "full": "civis, civis, m. and f.",
+        "translation": "citizen",
+        "type": "accusative singular"
+    },
+    "215": {
+        "word": "civim",
+        "full": "civis, civis, m. and f.",
+        "translation": "citizen",
+        "type": "accusative singular"
+    },
+    "216": {
+        "word": "civum",
+        "full": "civis, civis, m. and f.",
+        "translation": "citizen",
+        "type": "genitive plural"
+    },
+    "217": {
+        "word": "juris",
+        "full": "ius, iuris, n.",
+        "translation": "right, justice",
+        "type": "genitive singular"
+    },
+    "218": {
+        "word": "jurum",
+        "full": "ius, iuris, n.",
+        "translation": "right, justice",
+        "type": "genitive plural"
+    },
+    "219": {
+        "word": "maris",
+        "full": "mare, maris, n.",
+        "translation": "sea",
+        "type": "genitive singular"
+    },
+    "220": {
+        "word": "maria",
+        "full": "mare, maris, n.",
+        "translation": "sea",
+        "type": "nominative plural"
+    },
+    "221": {
+        "word": "marum",
+        "full": "mare, maris, n.",
+        "translation": "sea",
+        "type": "genitive plural"
+    },
+    "222": {
+        "word": "morti",
+        "full": "mors, mortis, f.",
+        "translation": "death",
+        "type": "locative singular"
+    },
+    "223": {
+        "word": "morte",
+        "full": "mors, mortis, f.",
+        "translation": "death",
+        "type": "locative singular"
+    },
+    "224": {
+        "word": "nubes",
+        "full": "nubes, nubis, f.",
+        "translation": "cloud",
+        "type": "nominative singular"
+    },
+    "225": {
+        "word": "nubis",
+        "full": "nubes, nubis, f.",
+        "translation": "cloud",
+        "type": "genitive singular"
+    },
+    "226": {
+        "word": "nubem",
+        "full": "nubes, nubis, f.",
+        "translation": "cloud",
+        "type": "accusative singular"
+    },
+    "227": {
+        "word": "nubim",
+        "full": "nubes, nubis, f.",
+        "translation": "cloud",
+        "type": "accusative singular"
+    },
+    "228": {
+        "word": "nubum",
+        "full": "nubes, nubis, f.",
+        "translation": "cloud",
+        "type": "genitive plural"
+    },
+    "229": {
+        "word": "orium",
+        "full": "os, oris, n.",
+        "translation": "mouth, face",
+        "type": "genitive plural"
+    },
+    "230": {
+        "word": "parti",
+        "full": "pars, partis, f.",
+        "translation": "part, share",
+        "type": "locative singular"
+    },
+    "231": {
+        "word": "parte",
+        "full": "pars, partis, f.",
+        "translation": "part, share",
+        "type": "locative singular"
+    },
+    "232": {
+        "word": "romae",
+        "full": "Roma, -ae, f.",
+        "translation": "Rome",
+        "type": "genitive singular"
+    },
+    "233": {
+        "word": "romai",
+        "full": "Roma, -ae, f.",
+        "translation": "Rome",
+        "type": "genitive singular"
+    },
+    "234": {
+        "word": "romad",
+        "full": "Roma, -ae, f.",
+        "translation": "Rome",
+        "type": "ablative singular"
+    },
+    "235": {
+        "word": "romam",
+        "full": "Roma, -ae, f.",
+        "translation": "Rome",
+        "type": "accusative singular"
+    },
+    "236": {
+        "word": "romum",
+        "full": "Roma, -ae, f.",
+        "translation": "Rome",
+        "type": "genitive plural"
+    },
+    "237": {
+        "word": "romis",
+        "full": "Roma, -ae, f.",
+        "translation": "Rome",
+        "type": "locative plural"
+    },
+    "238": {
+        "word": "romas",
+        "full": "Roma, -ae, f.",
+        "translation": "Rome",
+        "type": "accusative plural"
+    },
+    "239": {
+        "word": "turba",
+        "full": "turba, -ae, f.",
+        "translation": "uproar, disturbance, mob, crowd, multitude",
+        "type": "nominative singular"
+    },
+    "240": {
+        "word": "urbis",
+        "full": "urbs, urbis, f.",
+        "translation": "city",
+        "type": "genitive singular"
+    },
+    "241": {
+        "word": "urbes",
+        "full": "urbs, urbis, f.",
+        "translation": "city",
+        "type": "nominative plural"
+    },
+    "242": {
+        "word": "urbem",
+        "full": "urbs, urbis, f.",
+        "translation": "city",
+        "type": "accusative singular"
+    },
+    "243": {
+        "word": "urbim",
+        "full": "urbs, urbis, f.",
+        "translation": "city",
+        "type": "accusative singular"
+    },
+    "244": {
+        "word": "urbum",
+        "full": "urbs, urbis, f.",
+        "translation": "city",
+        "type": "genitive plural"
+    },
+    "245": {
+        "word": "vibus",
+        "full": "vis, vis, f.",
+        "translation": "force, power, violence",
+        "type": "locative plural"
+    },
+    "246": {
+        "word": "viris",
+        "full": "vis, vis, f.",
+        "translation": "force, power, violence",
+        "type": "genitive singular"
+    },
+    "247": {
+        "word": "vires",
+        "full": "vis, vis, f.",
+        "translation": "force, power, violence",
+        "type": "nominative plural"
+    },
+    "248": {
+        "word": "virem",
+        "full": "vis, vis, f.",
+        "translation": "force, power, violence",
+        "type": "accusative singular"
+    },
+    "249": {
+        "word": "virim",
+        "full": "vis, vis, f.",
+        "translation": "force, power, violence",
+        "type": "accusative singular"
+    },
+    "250": {
+        "word": "virum",
+        "full": "vis, vis, f.",
+        "translation": "force, power, violence",
+        "type": "genitive plural"
+    },
+    "251": {
+        "word": "trans",
+        "full": "trans",
+        "translation": "across (takes accusative)",
+        "type": "takes accusative"
+    },
+    "252": {
+        "word": "curro",
+        "full": "curro, currere, cucurri, cursum",
+        "translation": "to run, rush, move quickly",
+        "type": "present active indicative 1st person singular"
+    },
+    "253": {
+        "word": "curre",
+        "full": "curro, currere, cucurri, cursum",
+        "translation": "to run, rush, move quickly",
+        "type": "present active imperative 2nd person singular"
+    },
+    "254": {
+        "word": "mutas",
+        "full": "muto, mutare, mutavi, mutatum",
+        "translation": "to change, alter; exchange",
+        "type": "present active indicative 2nd person singular"
+    },
+    "255": {
+        "word": "mutat",
+        "full": "muto, mutare, mutavi, mutatum",
+        "translation": "to change, alter; exchange",
+        "type": "present active indicative 3rd person singular"
+    },
+    "256": {
+        "word": "teneo",
+        "full": "teneo, tenere, tenui, tentum",
+        "translation": "to hold, keep, possess; restrain",
+        "type": "present active indicative 1st person singular"
+    },
+    "257": {
+        "word": "tenes",
+        "full": "teneo, tenere, tenui, tentum",
+        "translation": "to hold, keep, possess; restrain",
+        "type": "present active indicative 2nd person singular"
+    },
+    "258": {
+        "word": "tenet",
+        "full": "teneo, tenere, tenui, tentum",
+        "translation": "to hold, keep, possess; restrain",
+        "type": "present active indicative 3rd person singular"
+    },
+    "259": {
+        "word": "tenui",
+        "full": "teneo, tenere, tenui, tentum",
+        "translation": "to hold, keep, possess; restrain",
+        "type": "perfect active indicative 1st person singular"
+    },
+    "260": {
+        "word": "vitas",
+        "full": "vito, vitare, vitavi, vitatum",
+        "translation": "to avoid, shun",
+        "type": "present active indicative 2nd person singular"
+    },
+    "261": {
+        "word": "vitat",
+        "full": "vito, vitare, vitavi, vitatum",
+        "translation": "to avoid, shun",
+        "type": "present active indicative 3rd person singular"
+    },
+    "262": {
+        "word": "mille",
+        "full": "mille",
+        "translation": "thousand; (plural) thousands",
+        "type": "nominative singular"
+    },
+    "263": {
+        "word": "milis",
+        "full": "mille",
+        "translation": "thousand; (plural) thousands",
+        "type": "genitive singular"
+    },
+    "264": {
+        "word": "milia",
+        "full": "mille",
+        "translation": "thousand; (plural) thousands",
+        "type": "nominative plural"
+    },
+    "265": {
+        "word": "milum",
+        "full": "mille",
+        "translation": "thousand; (plural) thousands",
+        "type": "genitive plural"
+    },
+    "266": {
+        "word": "milli",
+        "full": "mille",
+        "translation": "thousand; (plural) thousands",
+        "type": "locative singular"
+    },
+    "267": {
+        "word": "miser",
+        "full": "miser, misera, miserum",
+        "translation": "wretched, miserable, unfortunate",
+        "type": "positive nominative singular masculine"
+    },
+    "268": {
+        "word": "inter",
+        "full": "inter",
+        "translation": "between, among (takes accusative)",
+        "type": "takes accusative"
+    },
+    "269": {
+        "word": "jacio",
+        "full": "iacio, iacere, ieci, iactum",
+        "translation": "to throw, hurl",
+        "type": "present active indicative 1st person singular"
+    },
+    "270": {
+        "word": "jacis",
+        "full": "iacio, iacere, ieci, iactum",
+        "translation": "to throw, hurl",
+        "type": "present active indicative 2nd person singular"
+    },
+    "271": {
+        "word": "jacit",
+        "full": "iacio, iacere, ieci, iactum",
+        "translation": "to throw, hurl",
+        "type": "present active indicative 3rd person singular"
+    },
+    "272": {
+        "word": "jecit",
+        "full": "iacio, iacere, ieci, iactum",
+        "translation": "to throw, hurl",
+        "type": "perfect active indicative 3rd person singular"
+    },
+    "273": {
+        "word": "eicio",
+        "full": "eicio, eicere, eieci, eiectum",
+        "translation": "to throw out, drive out",
+        "type": "present active indicative 1st person singular"
+    },
+    "274": {
+        "word": "eicis",
+        "full": "eicio, eicere, eieci, eiectum",
+        "translation": "to throw out, drive out",
+        "type": "present active indicative 2nd person singular"
+    },
+    "275": {
+        "word": "eicit",
+        "full": "eicio, eicere, eieci, eiectum",
+        "translation": "to throw out, drive out",
+        "type": "present active indicative 3rd person singular"
+    },
+    "276": {
+        "word": "ejeci",
+        "full": "eicio, eicere, eieci, eiectum",
+        "translation": "to throw out, drive out",
+        "type": "perfect active indicative 1st person singular"
+    },
+    "277": {
+        "word": "timeo",
+        "full": "timeo, timere, timui, -",
+        "translation": "to fear, be afraid of, be afraid",
+        "type": "present active indicative 1st person singular"
+    },
+    "278": {
+        "word": "times",
+        "full": "timeo, timere, timui, -",
+        "translation": "to fear, be afraid of, be afraid",
+        "type": "present active indicative 2nd person singular"
+    },
+    "279": {
+        "word": "timet",
+        "full": "timeo, timere, timui, -",
+        "translation": "to fear, be afraid of, be afraid",
+        "type": "present active indicative 3rd person singular"
+    },
+    "280": {
+        "word": "timui",
+        "full": "timeo, timere, timui, -",
+        "translation": "to fear, be afraid of, be afraid",
+        "type": "perfect active indicative 1st person singular"
+    },
+    "281": {
+        "word": "trium",
+        "full": "tres, tria",
+        "translation": "three",
+        "type": "cardinal genitive plural masculine"
+    },
+    "282": {
+        "word": "novem",
+        "full": "novem",
+        "translation": "nine",
+        "type": "cardinal"
+    },
+    "283": {
+        "word": "decem",
+        "full": "decem",
+        "translation": "ten",
+        "type": "cardinal"
+    },
+    "284": {
+        "word": "primi",
+        "full": "primus, -a, -um",
+        "translation": "first",
+        "type": "positive genitive singular masculine"
+    },
+    "285": {
+        "word": "primo",
+        "full": "primus, -a, -um",
+        "translation": "first",
+        "type": "positive dative singular masculine"
+    },
+    "286": {
+        "word": "prime",
+        "full": "primus, -a, -um",
+        "translation": "first",
+        "type": "positive vocative singular masculine"
+    },
+    "287": {
+        "word": "prima",
+        "full": "primus, -a, -um",
+        "translation": "first",
+        "type": "positive nominative singular feminine"
+    },
+    "288": {
+        "word": "sexti",
+        "full": "sextus, -a, -um",
+        "translation": "sixth",
+        "type": "ordinal genitive singular masculine"
+    },
+    "289": {
+        "word": "sexto",
+        "full": "sextus, -a, -um",
+        "translation": "sixth",
+        "type": "ordinal dative singular masculine"
+    },
+    "290": {
+        "word": "sexte",
+        "full": "sextus, -a, -um",
+        "translation": "sixth",
+        "type": "ordinal vocative singular masculine"
+    },
+    "291": {
+        "word": "sexta",
+        "full": "sextus, -a, -um",
+        "translation": "sixth",
+        "type": "ordinal nominative singular feminine"
+    },
+    "292": {
+        "word": "nonus",
+        "full": "nonus, -a, -um",
+        "translation": "ninth",
+        "type": "ordinal nominative singular masculine"
+    },
+    "293": {
+        "word": "nonum",
+        "full": "nonus, -a, -um",
+        "translation": "ninth",
+        "type": "ordinal accusative singular masculine"
+    },
+    "294": {
+        "word": "nonis",
+        "full": "nonus, -a, -um",
+        "translation": "ninth",
+        "type": "ordinal dative plural masculine"
+    },
+    "295": {
+        "word": "nonos",
+        "full": "nonus, -a, -um",
+        "translation": "ninth",
+        "type": "ordinal accusative plural masculine"
+    },
+    "296": {
+        "word": "nonae",
+        "full": "nonus, -a, -um",
+        "translation": "ninth",
+        "type": "ordinal genitive singular feminine"
+    },
+    "297": {
+        "word": "nonam",
+        "full": "nonus, -a, -um",
+        "translation": "ninth",
+        "type": "ordinal accusative singular feminine"
+    },
+    "298": {
+        "word": "nonas",
+        "full": "nonus, -a, -um",
+        "translation": "ninth",
+        "type": "ordinal accusative plural feminine"
+    }
+}
