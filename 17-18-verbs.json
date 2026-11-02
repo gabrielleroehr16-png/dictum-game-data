@@ -1,0 +1,194 @@
+{
+    "1": {
+        "word": "coepe",
+        "full": "-, coepisse, coepi, coeptum",
+        "translation": "began (only used in the perfect system)",
+        "type": "present active imperative 2nd person singular"
+    },
+    "2": {
+        "word": "coepi",
+        "full": "-, coepisse, coepi, coeptum",
+        "translation": "began (only used in the perfect system)",
+        "type": "present passive infinitive"
+    },
+    "3": {
+        "word": "cupio",
+        "full": "cupio, cupere, cupivi, cupitum",
+        "translation": "to desire, wish, long for",
+        "type": "present active indicative 1st person singular"
+    },
+    "4": {
+        "word": "cupis",
+        "full": "cupio, cupere, cupivi, cupitum",
+        "translation": "to desire, wish, long for",
+        "type": "present active indicative 2nd person singular"
+    },
+    "5": {
+        "word": "cupit",
+        "full": "cupio, cupere, cupivi, cupitum",
+        "translation": "to desire, wish, long for",
+        "type": "present active indicative 3rd person singular"
+    },
+    "6": {
+        "word": "deleo",
+        "full": "deleo, delere, delevi, deletum",
+        "translation": "to destroy, wipe out, erase",
+        "type": "present active indicative 1st person singular"
+    },
+    "7": {
+        "word": "deles",
+        "full": "deleo, delere, delevi, deletum",
+        "translation": "to destroy, wipe out, erase",
+        "type": "present active indicative 2nd person singular"
+    },
+    "8": {
+        "word": "delet",
+        "full": "deleo, delere, delevi, deletum",
+        "translation": "to destroy, wipe out, erase",
+        "type": "present active indicative 3rd person singular"
+    },
+    "9": {
+        "word": "fluis",
+        "full": "fluo, fluere, fluxi, fluxum",
+        "translation": "to flow",
+        "type": "present active indicative 2nd person singular"
+    },
+    "10": {
+        "word": "fluit",
+        "full": "fluo, fluere, fluxi, fluxum",
+        "translation": "to flow",
+        "type": "present active indicative 3rd person singular"
+    },
+    "11": {
+        "word": "fluam",
+        "full": "fluo, fluere, fluxi, fluxum",
+        "translation": "to flow",
+        "type": "future active indicative 1st person singular"
+    },
+    "12": {
+        "word": "flues",
+        "full": "fluo, fluere, fluxi, fluxum",
+        "translation": "to flow",
+        "type": "future active indicative 2nd person singular"
+    },
+    "13": {
+        "word": "fluet",
+        "full": "fluo, fluere, fluxi, fluxum",
+        "translation": "to flow",
+        "type": "future active indicative 3rd person singular"
+    },
+    "14": {
+        "word": "fluor",
+        "full": "fluo, fluere, fluxi, fluxum",
+        "translation": "to flow",
+        "type": "present passive indicative 1st person singular"
+    },
+    "15": {
+        "word": "fluar",
+        "full": "fluo, fluere, fluxi, fluxum",
+        "translation": "to flow",
+        "type": "future passive indicative 1st person singular"
+    },
+    "16": {
+        "word": "fluxi",
+        "full": "fluo, fluere, fluxi, fluxum",
+        "translation": "to flow",
+        "type": "perfect active indicative 1st person singular"
+    },
+    "17": {
+        "word": "legis",
+        "full": "lego, legere, legi, lectum",
+        "translation": "to pick out, choose; read",
+        "type": "present active indicative 2nd person singular"
+    },
+    "18": {
+        "word": "legit",
+        "full": "lego, legere, legi, lectum",
+        "translation": "to pick out, choose; read",
+        "type": "present active indicative 3rd person singular"
+    },
+    "19": {
+        "word": "legam",
+        "full": "lego, legere, legi, lectum",
+        "translation": "to pick out, choose; read",
+        "type": "future active indicative 1st person singular"
+    },
+    "20": {
+        "word": "leges",
+        "full": "lego, legere, legi, lectum",
+        "translation": "to pick out, choose; read",
+        "type": "future active indicative 2nd person singular"
+    },
+    "21": {
+        "word": "leget",
+        "full": "lego, legere, legi, lectum",
+        "translation": "to pick out, choose; read",
+        "type": "future active indicative 3rd person singular"
+    },
+    "22": {
+        "word": "legor",
+        "full": "lego, legere, legi, lectum",
+        "translation": "to pick out, choose; read",
+        "type": "present passive indicative 1st person singular"
+    },
+    "23": {
+        "word": "legar",
+        "full": "lego, legere, legi, lectum",
+        "translation": "to pick out, choose; read",
+        "type": "future passive indicative 1st person singular"
+    },
+    "24": {
+        "word": "misce",
+        "full": "misceo, miscere, miscui, mixtum",
+        "translation": "to mix, stir up, disturb",
+        "type": "present active imperative 2nd person singular"
+    },
+    "25": {
+        "word": "moveo",
+        "full": "moveo, movere, movi, motum",
+        "translation": "to move; arouse, affect",
+        "type": "present active indicative 1st person singular"
+    },
+    "26": {
+        "word": "moves",
+        "full": "moveo, movere, movi, motum",
+        "translation": "to move; arouse, affect",
+        "type": "present active indicative 2nd person singular"
+    },
+    "27": {
+        "word": "movet",
+        "full": "moveo, movere, movi, motum",
+        "translation": "to move; arouse, affect",
+        "type": "present active indicative 3rd person singular"
+    },
+    "28": {
+        "word": "movit",
+        "full": "moveo, movere, movi, motum",
+        "translation": "to move; arouse, affect",
+        "type": "perfect active indicative 3rd person singular"
+    },
+    "29": {
+        "word": "video",
+        "full": "videor, videri, visus sum, -",
+        "translation": "to be seen, seem, appear",
+        "type": "present active indicative 1st person singular"
+    },
+    "30": {
+        "word": "vides",
+        "full": "videor, videri, visus sum, -",
+        "translation": "to be seen, seem, appear",
+        "type": "present active indicative 2nd person singular"
+    },
+    "31": {
+        "word": "videt",
+        "full": "videor, videri, visus sum, -",
+        "translation": "to be seen, seem, appear",
+        "type": "present active indicative 3rd person singular"
+    },
+    "32": {
+        "word": "vidit",
+        "full": "videor, videri, visus sum, -",
+        "translation": "to be seen, seem, appear",
+        "type": "perfect active indicative 3rd person singular"
+    }
+}
