@@ -1,0 +1,1742 @@
+{
+    "1": {
+        "word": "nihil",
+        "full": "nihil, n.",
+        "translation": "nothing",
+        "type": "indeclinable"
+    },
+    "2": {
+        "word": "famae",
+        "full": "fama, -ae, f.",
+        "translation": "rumour, report; fame, reputation",
+        "type": "genitive singular"
+    },
+    "3": {
+        "word": "famai",
+        "full": "fama, -ae, f.",
+        "translation": "rumour, report; fame, reputation",
+        "type": "genitive singular"
+    },
+    "4": {
+        "word": "famad",
+        "full": "fama, -ae, f.",
+        "translation": "rumour, report; fame, reputation",
+        "type": "ablative singular"
+    },
+    "5": {
+        "word": "famam",
+        "full": "fama, -ae, f.",
+        "translation": "rumour, report; fame, reputation",
+        "type": "accusative singular"
+    },
+    "6": {
+        "word": "famum",
+        "full": "fama, -ae, f.",
+        "translation": "rumour, report; fame, reputation",
+        "type": "genitive plural"
+    },
+    "7": {
+        "word": "famis",
+        "full": "fama, -ae, f.",
+        "translation": "rumour, report; fame, reputation",
+        "type": "locative plural"
+    },
+    "8": {
+        "word": "famas",
+        "full": "fama, -ae, f.",
+        "translation": "rumour, report; fame, reputation",
+        "type": "accusative plural"
+    },
+    "9": {
+        "word": "forma",
+        "full": "forma, -ae, f.",
+        "translation": "form, shape; beauty",
+        "type": "nominative singular"
+    },
+    "10": {
+        "word": "nauta",
+        "full": "nauta, -ae, m.",
+        "translation": "sailor",
+        "type": "nominative singular"
+    },
+    "11": {
+        "word": "poena",
+        "full": "poena, -ae, f.",
+        "translation": "penalty, punishment (idiom, poenas dare: to pay the penalty)",
+        "type": "nominative singular"
+    },
+    "12": {
+        "word": "poeta",
+        "full": "poeta, -ae, m.",
+        "translation": "poet",
+        "type": "nominative singular"
+    },
+    "13": {
+        "word": "porta",
+        "full": "porta, -ae, f.",
+        "translation": "gate, entrance",
+        "type": "nominative singular"
+    },
+    "14": {
+        "word": "rosae",
+        "full": "rosa, -ae, f.",
+        "translation": "rose",
+        "type": "genitive singular"
+    },
+    "15": {
+        "word": "rosai",
+        "full": "rosa, -ae, f.",
+        "translation": "rose",
+        "type": "genitive singular"
+    },
+    "16": {
+        "word": "rosad",
+        "full": "rosa, -ae, f.",
+        "translation": "rose",
+        "type": "ablative singular"
+    },
+    "17": {
+        "word": "rosam",
+        "full": "rosa, -ae, f.",
+        "translation": "rose",
+        "type": "accusative singular"
+    },
+    "18": {
+        "word": "rosum",
+        "full": "rosa, -ae, f.",
+        "translation": "rose",
+        "type": "genitive plural"
+    },
+    "19": {
+        "word": "rosis",
+        "full": "rosa, -ae, f.",
+        "translation": "rose",
+        "type": "locative plural"
+    },
+    "20": {
+        "word": "rosas",
+        "full": "rosa, -ae, f.",
+        "translation": "rose",
+        "type": "accusative plural"
+    },
+    "21": {
+        "word": "vitae",
+        "full": "vita, -ae, f.",
+        "translation": "life; mode of life",
+        "type": "genitive singular"
+    },
+    "22": {
+        "word": "vitai",
+        "full": "vita, -ae, f.",
+        "translation": "life; mode of life",
+        "type": "genitive singular"
+    },
+    "23": {
+        "word": "vitad",
+        "full": "vita, -ae, f.",
+        "translation": "life; mode of life",
+        "type": "ablative singular"
+    },
+    "24": {
+        "word": "vitam",
+        "full": "vita, -ae, f.",
+        "translation": "life; mode of life",
+        "type": "accusative singular"
+    },
+    "25": {
+        "word": "vitum",
+        "full": "vita, -ae, f.",
+        "translation": "life; mode of life",
+        "type": "genitive plural"
+    },
+    "26": {
+        "word": "vitis",
+        "full": "vita, -ae, f.",
+        "translation": "life; mode of life",
+        "type": "locative plural"
+    },
+    "27": {
+        "word": "vitas",
+        "full": "vita, -ae, f.",
+        "translation": "life; mode of life",
+        "type": "accusative plural"
+    },
+    "28": {
+        "word": "agrum",
+        "full": "ager, agri, m.",
+        "translation": "field, farm",
+        "type": "accusative singular"
+    },
+    "29": {
+        "word": "agrom",
+        "full": "ager, agri, m.",
+        "translation": "field, farm",
+        "type": "accusative singular"
+    },
+    "30": {
+        "word": "agris",
+        "full": "ager, agri, m.",
+        "translation": "field, farm",
+        "type": "locative plural"
+    },
+    "31": {
+        "word": "agros",
+        "full": "ager, agri, m.",
+        "translation": "field, farm",
+        "type": "accusative plural"
+    },
+    "32": {
+        "word": "amica",
+        "full": "amica, -ae, f.",
+        "translation": "friend",
+        "type": "nominative singular"
+    },
+    "33": {
+        "word": "amice",
+        "full": "amicus, -i, m.",
+        "translation": "friend",
+        "type": "vocative singular"
+    },
+    "34": {
+        "word": "amici",
+        "full": "amicus, -i, m.",
+        "translation": "friend",
+        "type": "genitive singular"
+    },
+    "35": {
+        "word": "amico",
+        "full": "amicus, -i, m.",
+        "translation": "friend",
+        "type": "dative singular"
+    },
+    "36": {
+        "word": "filia",
+        "full": "filia, -ae, f.",
+        "translation": "daughter (dative and ablative plural, filiabus)",
+        "type": "nominative singular"
+    },
+    "37": {
+        "word": "filii",
+        "full": "filius, -ii, m.",
+        "translation": "son",
+        "type": "locative singular"
+    },
+    "38": {
+        "word": "filio",
+        "full": "filius, -ii, m.",
+        "translation": "son",
+        "type": "dative singular"
+    },
+    "39": {
+        "word": "pueri",
+        "full": "puer, pueri, m.",
+        "translation": "boy; boys, children",
+        "type": "locative singular"
+    },
+    "40": {
+        "word": "puero",
+        "full": "puer, pueri, m.",
+        "translation": "boy; boys, children",
+        "type": "dative singular"
+    },
+    "41": {
+        "word": "virum",
+        "full": "vir, viri, m.",
+        "translation": "man, hero",
+        "type": "accusative singular"
+    },
+    "42": {
+        "word": "virom",
+        "full": "vir, viri, m.",
+        "translation": "man, hero",
+        "type": "accusative singular"
+    },
+    "43": {
+        "word": "viris",
+        "full": "vir, viri, m.",
+        "translation": "man, hero",
+        "type": "locative plural"
+    },
+    "44": {
+        "word": "viros",
+        "full": "vir, viri, m.",
+        "translation": "man, hero",
+        "type": "accusative plural"
+    },
+    "45": {
+        "word": "basii",
+        "full": "basium, -ii, n.",
+        "translation": "kiss",
+        "type": "locative singular"
+    },
+    "46": {
+        "word": "basio",
+        "full": "basium, -ii, n.",
+        "translation": "kiss",
+        "type": "dative singular"
+    },
+    "47": {
+        "word": "basia",
+        "full": "basium, -ii, n.",
+        "translation": "kiss",
+        "type": "nominative plural"
+    },
+    "48": {
+        "word": "belli",
+        "full": "bellum, -i, n.",
+        "translation": "war",
+        "type": "locative singular"
+    },
+    "49": {
+        "word": "bello",
+        "full": "bellum, -i, n.",
+        "translation": "war",
+        "type": "dative singular"
+    },
+    "50": {
+        "word": "bella",
+        "full": "bellum, -i, n.",
+        "translation": "war",
+        "type": "nominative plural"
+    },
+    "51": {
+        "word": "curae",
+        "full": "cura, -ae, f.",
+        "translation": "care, attention, caution, anxiety",
+        "type": "genitive singular"
+    },
+    "52": {
+        "word": "curai",
+        "full": "cura, -ae, f.",
+        "translation": "care, attention, caution, anxiety",
+        "type": "genitive singular"
+    },
+    "53": {
+        "word": "curad",
+        "full": "cura, -ae, f.",
+        "translation": "care, attention, caution, anxiety",
+        "type": "ablative singular"
+    },
+    "54": {
+        "word": "curam",
+        "full": "cura, -ae, f.",
+        "translation": "care, attention, caution, anxiety",
+        "type": "accusative singular"
+    },
+    "55": {
+        "word": "curum",
+        "full": "cura, -ae, f.",
+        "translation": "care, attention, caution, anxiety",
+        "type": "genitive plural"
+    },
+    "56": {
+        "word": "curis",
+        "full": "cura, -ae, f.",
+        "translation": "care, attention, caution, anxiety",
+        "type": "locative plural"
+    },
+    "57": {
+        "word": "curas",
+        "full": "cura, -ae, f.",
+        "translation": "care, attention, caution, anxiety",
+        "type": "accusative plural"
+    },
+    "58": {
+        "word": "donum",
+        "full": "donum, -i, n.",
+        "translation": "gift, present",
+        "type": "genitive plural"
+    },
+    "59": {
+        "word": "donis",
+        "full": "donum, -i, n.",
+        "translation": "gift, present",
+        "type": "locative plural"
+    },
+    "60": {
+        "word": "donom",
+        "full": "donum, -i, n.",
+        "translation": "gift, present",
+        "type": "nominative singular"
+    },
+    "61": {
+        "word": "exiti",
+        "full": "exitium, -ii, n.",
+        "translation": "destruction, ruin",
+        "type": "genitive singular"
+    },
+    "62": {
+        "word": "morae",
+        "full": "mora, -ae, f.",
+        "translation": "delay",
+        "type": "genitive singular"
+    },
+    "63": {
+        "word": "morai",
+        "full": "mora, -ae, f.",
+        "translation": "delay",
+        "type": "genitive singular"
+    },
+    "64": {
+        "word": "morad",
+        "full": "mora, -ae, f.",
+        "translation": "delay",
+        "type": "ablative singular"
+    },
+    "65": {
+        "word": "moram",
+        "full": "mora, -ae, f.",
+        "translation": "delay",
+        "type": "accusative singular"
+    },
+    "66": {
+        "word": "morum",
+        "full": "mora, -ae, f.",
+        "translation": "delay",
+        "type": "genitive plural"
+    },
+    "67": {
+        "word": "moris",
+        "full": "mora, -ae, f.",
+        "translation": "delay",
+        "type": "locative plural"
+    },
+    "68": {
+        "word": "moras",
+        "full": "mora, -ae, f.",
+        "translation": "delay",
+        "type": "accusative plural"
+    },
+    "69": {
+        "word": "ocule",
+        "full": "oculus, -i, m.",
+        "translation": "eye",
+        "type": "vocative singular"
+    },
+    "70": {
+        "word": "oculi",
+        "full": "oculus, -i, m.",
+        "translation": "eye",
+        "type": "genitive singular"
+    },
+    "71": {
+        "word": "oculo",
+        "full": "oculus, -i, m.",
+        "translation": "eye",
+        "type": "dative singular"
+    },
+    "72": {
+        "word": "otium",
+        "full": "otium, -ii, n.",
+        "translation": "leisure, peace",
+        "type": "genitive plural"
+    },
+    "73": {
+        "word": "otiis",
+        "full": "otium, -ii, n.",
+        "translation": "leisure, peace",
+        "type": "locative plural"
+    },
+    "74": {
+        "word": "anime",
+        "full": "animus, -i, m.",
+        "translation": "soul, spirit, mind; (plural) high spirits, pride, courage",
+        "type": "vocative singular"
+    },
+    "75": {
+        "word": "animi",
+        "full": "animus, -i, m.",
+        "translation": "soul, spirit, mind; (plural) high spirits, pride, courage",
+        "type": "genitive singular"
+    },
+    "76": {
+        "word": "animo",
+        "full": "animus, -i, m.",
+        "translation": "soul, spirit, mind; (plural) high spirits, pride, courage",
+        "type": "dative singular"
+    },
+    "77": {
+        "word": "caeli",
+        "full": "caelum, -i, n.",
+        "translation": "sky, heaven",
+        "type": "locative singular"
+    },
+    "78": {
+        "word": "caelo",
+        "full": "caelum, -i, n.",
+        "translation": "sky, heaven",
+        "type": "dative singular"
+    },
+    "79": {
+        "word": "caela",
+        "full": "caelum, -i, n.",
+        "translation": "sky, heaven",
+        "type": "nominative plural"
+    },
+    "80": {
+        "word": "culpa",
+        "full": "culpa, -ae, f.",
+        "translation": "fault, blame",
+        "type": "nominative singular"
+    },
+    "81": {
+        "word": "verbi",
+        "full": "verbum, -i, n.",
+        "translation": "word",
+        "type": "locative singular"
+    },
+    "82": {
+        "word": "verbo",
+        "full": "verbum, -i, n.",
+        "translation": "word",
+        "type": "dative singular"
+    },
+    "83": {
+        "word": "verba",
+        "full": "verbum, -i, n.",
+        "translation": "word",
+        "type": "nominative plural"
+    },
+    "84": {
+        "word": "liber",
+        "full": "liber, libri, m.",
+        "translation": "book",
+        "type": "nominative singular"
+    },
+    "85": {
+        "word": "libri",
+        "full": "liber, libri, m.",
+        "translation": "book",
+        "type": "locative singular"
+    },
+    "86": {
+        "word": "libro",
+        "full": "liber, libri, m.",
+        "translation": "book",
+        "type": "dative singular"
+    },
+    "87": {
+        "word": "vitii",
+        "full": "vitium, -ii, n.",
+        "translation": "fault, crime, vice",
+        "type": "locative singular"
+    },
+    "88": {
+        "word": "vitio",
+        "full": "vitium, -ii, n.",
+        "translation": "fault, crime, vice",
+        "type": "dative singular"
+    },
+    "89": {
+        "word": "vitia",
+        "full": "vitium, -ii, n.",
+        "translation": "fault, crime, vice",
+        "type": "nominative plural"
+    },
+    "90": {
+        "word": "amori",
+        "full": "amor, amoris, m.",
+        "translation": "love",
+        "type": "locative singular"
+    },
+    "91": {
+        "word": "amore",
+        "full": "amor, amoris, m.",
+        "translation": "love",
+        "type": "locative singular"
+    },
+    "92": {
+        "word": "labor",
+        "full": "labor, laboris, m.",
+        "translation": "labor, work, toil; a work, production",
+        "type": "nominative singular"
+    },
+    "93": {
+        "word": "morem",
+        "full": "mos, moris, m.",
+        "translation": "habit, custom, manner; (plural) habits, character",
+        "type": "accusative singular"
+    },
+    "94": {
+        "word": "mores",
+        "full": "mos, moris, m.",
+        "translation": "habit, custom, manner; (plural) habits, character",
+        "type": "nominative plural"
+    },
+    "95": {
+        "word": "nomen",
+        "full": "nomen, nominis, n.",
+        "translation": "name",
+        "type": "nominative singular"
+    },
+    "96": {
+        "word": "pacis",
+        "full": "pax, pacis, f.",
+        "translation": "peace",
+        "type": "genitive singular"
+    },
+    "97": {
+        "word": "pacem",
+        "full": "pax, pacis, f.",
+        "translation": "peace",
+        "type": "accusative singular"
+    },
+    "98": {
+        "word": "paces",
+        "full": "pax, pacis, f.",
+        "translation": "peace",
+        "type": "nominative plural"
+    },
+    "99": {
+        "word": "pacum",
+        "full": "pax, pacis, f.",
+        "translation": "peace",
+        "type": "genitive plural"
+    },
+    "100": {
+        "word": "regis",
+        "full": "rex, regis, m.",
+        "translation": "king",
+        "type": "genitive singular"
+    },
+    "101": {
+        "word": "regem",
+        "full": "rex, regis, m.",
+        "translation": "king",
+        "type": "accusative singular"
+    },
+    "102": {
+        "word": "reges",
+        "full": "rex, regis, m.",
+        "translation": "king",
+        "type": "nominative plural"
+    },
+    "103": {
+        "word": "regum",
+        "full": "rex, regis, m.",
+        "translation": "king",
+        "type": "genitive plural"
+    },
+    "104": {
+        "word": "terra",
+        "full": "terra, -ae, f.",
+        "translation": "earth, ground, land, country",
+        "type": "nominative singular"
+    },
+    "105": {
+        "word": "uxori",
+        "full": "uxor, uxoris, f.",
+        "translation": "wife",
+        "type": "locative singular"
+    },
+    "106": {
+        "word": "uxore",
+        "full": "uxor, uxoris, f.",
+        "translation": "wife",
+        "type": "locative singular"
+    },
+    "107": {
+        "word": "virgo",
+        "full": "virgo, virginis, f.",
+        "translation": "maiden, virgin",
+        "type": "nominative singular"
+    },
+    "108": {
+        "word": "copia",
+        "full": "copia, -ae, f.",
+        "translation": "abundance, supply; (plural) supplies, troops, forces",
+        "type": "nominative singular"
+    },
+    "109": {
+        "word": "laudi",
+        "full": "laus, laudis, f.",
+        "translation": "praise, glory, fame",
+        "type": "locative singular"
+    },
+    "110": {
+        "word": "laude",
+        "full": "laus, laudis, f.",
+        "translation": "praise, glory, fame",
+        "type": "locative singular"
+    },
+    "111": {
+        "word": "ratio",
+        "full": "ratio, rationis, f.",
+        "translation": "reckoning, account; reason, judgement, consideration; system; manner, method",
+        "type": "nominative singular"
+    },
+    "112": {
+        "word": "soror",
+        "full": "soror, sororis, f.",
+        "translation": "sister",
+        "type": "nominative singular"
+    },
+    "113": {
+        "word": "locus",
+        "full": "locus, -i, m.",
+        "translation": "place; passage in literature (loca, -orum, n.: places, regions)",
+        "type": "nominative singular"
+    },
+    "114": {
+        "word": "locos",
+        "full": "locus, -i, m.",
+        "translation": "place; passage in literature (loca, -orum, n.: places, regions)",
+        "type": "nominative singular"
+    },
+    "115": {
+        "word": "locum",
+        "full": "locus, -i, m.",
+        "translation": "place; passage in literature (loca, -orum, n.: places, regions)",
+        "type": "accusative singular"
+    },
+    "116": {
+        "word": "locom",
+        "full": "locus, -i, m.",
+        "translation": "place; passage in literature (loca, -orum, n.: places, regions)",
+        "type": "accusative singular"
+    },
+    "117": {
+        "word": "locis",
+        "full": "locus, -i, m.",
+        "translation": "place; passage in literature (loca, -orum, n.: places, regions)",
+        "type": "locative plural"
+    },
+    "118": {
+        "word": "morbe",
+        "full": "morbus, -i, m.",
+        "translation": "disease, sickness",
+        "type": "vocative singular"
+    },
+    "119": {
+        "word": "morbi",
+        "full": "morbus, -i, m.",
+        "translation": "disease, sickness",
+        "type": "genitive singular"
+    },
+    "120": {
+        "word": "morbo",
+        "full": "morbus, -i, m.",
+        "translation": "disease, sickness",
+        "type": "dative singular"
+    },
+    "121": {
+        "word": "studi",
+        "full": "studium, -ii, n.",
+        "translation": "eagerness, zeal, pursuit, study",
+        "type": "genitive singular"
+    },
+    "122": {
+        "word": "horae",
+        "full": "hora, -ae, f.",
+        "translation": "hour, time",
+        "type": "genitive singular"
+    },
+    "123": {
+        "word": "horai",
+        "full": "hora, -ae, f.",
+        "translation": "hour, time",
+        "type": "genitive singular"
+    },
+    "124": {
+        "word": "horad",
+        "full": "hora, -ae, f.",
+        "translation": "hour, time",
+        "type": "ablative singular"
+    },
+    "125": {
+        "word": "horam",
+        "full": "hora, -ae, f.",
+        "translation": "hour, time",
+        "type": "accusative singular"
+    },
+    "126": {
+        "word": "horum",
+        "full": "hora, -ae, f.",
+        "translation": "hour, time",
+        "type": "genitive plural"
+    },
+    "127": {
+        "word": "horis",
+        "full": "hora, -ae, f.",
+        "translation": "hour, time",
+        "type": "locative plural"
+    },
+    "128": {
+        "word": "horas",
+        "full": "hora, -ae, f.",
+        "translation": "hour, time",
+        "type": "accusative plural"
+    },
+    "129": {
+        "word": "timor",
+        "full": "timor, timoris, m.",
+        "translation": "fear",
+        "type": "nominative singular"
+    },
+    "130": {
+        "word": "caput",
+        "full": "caput, capitis, n.",
+        "translation": "head; leader; beginning; life; heading; chapter",
+        "type": "nominative singular"
+    },
+    "131": {
+        "word": "annus",
+        "full": "annus, -i, m.",
+        "translation": "year",
+        "type": "nominative singular"
+    },
+    "132": {
+        "word": "annos",
+        "full": "annus, -i, m.",
+        "translation": "year",
+        "type": "nominative singular"
+    },
+    "133": {
+        "word": "annum",
+        "full": "annus, -i, m.",
+        "translation": "year",
+        "type": "accusative singular"
+    },
+    "134": {
+        "word": "annom",
+        "full": "annus, -i, m.",
+        "translation": "year",
+        "type": "accusative singular"
+    },
+    "135": {
+        "word": "annis",
+        "full": "annus, -i, m.",
+        "translation": "year",
+        "type": "locative plural"
+    },
+    "136": {
+        "word": "asiae",
+        "full": "Asia, -ae, f.",
+        "translation": "Asia",
+        "type": "genitive singular"
+    },
+    "137": {
+        "word": "asiai",
+        "full": "Asia, -ae, f.",
+        "translation": "Asia",
+        "type": "genitive singular"
+    },
+    "138": {
+        "word": "asiad",
+        "full": "Asia, -ae, f.",
+        "translation": "Asia",
+        "type": "ablative singular"
+    },
+    "139": {
+        "word": "asiam",
+        "full": "Asia, -ae, f.",
+        "translation": "Asia",
+        "type": "accusative singular"
+    },
+    "140": {
+        "word": "asium",
+        "full": "Asia, -ae, f.",
+        "translation": "Asia",
+        "type": "genitive plural"
+    },
+    "141": {
+        "word": "asiis",
+        "full": "Asia, -ae, f.",
+        "translation": "Asia",
+        "type": "locative plural"
+    },
+    "142": {
+        "word": "asias",
+        "full": "Asia, -ae, f.",
+        "translation": "Asia",
+        "type": "accusative plural"
+    },
+    "143": {
+        "word": "mater",
+        "full": "mater, matris, f.",
+        "translation": "mother",
+        "type": "nominative singular"
+    },
+    "144": {
+        "word": "matri",
+        "full": "mater, matris, f.",
+        "translation": "mother",
+        "type": "locative singular"
+    },
+    "145": {
+        "word": "matre",
+        "full": "mater, matris, f.",
+        "translation": "mother",
+        "type": "locative singular"
+    },
+    "146": {
+        "word": "pater",
+        "full": "pater, patris, m.",
+        "translation": "father",
+        "type": "nominative singular"
+    },
+    "147": {
+        "word": "patri",
+        "full": "pater, patris, m.",
+        "translation": "father",
+        "type": "locative singular"
+    },
+    "148": {
+        "word": "patre",
+        "full": "pater, patris, m.",
+        "translation": "father",
+        "type": "locative singular"
+    },
+    "149": {
+        "word": "facti",
+        "full": "factum, -i, n.",
+        "translation": "deed, act, achievement",
+        "type": "locative singular"
+    },
+    "150": {
+        "word": "facto",
+        "full": "factum, -i, n.",
+        "translation": "deed, act, achievement",
+        "type": "dative singular"
+    },
+    "151": {
+        "word": "facta",
+        "full": "factum, -i, n.",
+        "translation": "deed, act, achievement",
+        "type": "nominative plural"
+    },
+    "152": {
+        "word": "signi",
+        "full": "signum, -i, n.",
+        "translation": "sign, signal, indication, seal",
+        "type": "locative singular"
+    },
+    "153": {
+        "word": "signo",
+        "full": "signum, -i, n.",
+        "translation": "sign, signal, indication, seal",
+        "type": "dative singular"
+    },
+    "154": {
+        "word": "signa",
+        "full": "signum, -i, n.",
+        "translation": "sign, signal, indication, seal",
+        "type": "nominative plural"
+    },
+    "155": {
+        "word": "aquae",
+        "full": "aqua, -ae, f.",
+        "translation": "water",
+        "type": "genitive singular"
+    },
+    "156": {
+        "word": "aquai",
+        "full": "aqua, -ae, f.",
+        "translation": "water",
+        "type": "genitive singular"
+    },
+    "157": {
+        "word": "aquad",
+        "full": "aqua, -ae, f.",
+        "translation": "water",
+        "type": "ablative singular"
+    },
+    "158": {
+        "word": "aquam",
+        "full": "aqua, -ae, f.",
+        "translation": "water",
+        "type": "accusative singular"
+    },
+    "159": {
+        "word": "aquum",
+        "full": "aqua, -ae, f.",
+        "translation": "water",
+        "type": "genitive plural"
+    },
+    "160": {
+        "word": "aquis",
+        "full": "aqua, -ae, f.",
+        "translation": "water",
+        "type": "locative plural"
+    },
+    "161": {
+        "word": "aquas",
+        "full": "aqua, -ae, f.",
+        "translation": "water",
+        "type": "accusative plural"
+    },
+    "162": {
+        "word": "artis",
+        "full": "ars, artis, f.",
+        "translation": "art, skill",
+        "type": "genitive singular"
+    },
+    "163": {
+        "word": "artes",
+        "full": "ars, artis, f.",
+        "translation": "art, skill",
+        "type": "nominative plural"
+    },
+    "164": {
+        "word": "artem",
+        "full": "ars, artis, f.",
+        "translation": "art, skill",
+        "type": "accusative singular"
+    },
+    "165": {
+        "word": "artim",
+        "full": "ars, artis, f.",
+        "translation": "art, skill",
+        "type": "accusative singular"
+    },
+    "166": {
+        "word": "artum",
+        "full": "ars, artis, f.",
+        "translation": "art, skill",
+        "type": "genitive plural"
+    },
+    "167": {
+        "word": "auris",
+        "full": "auris, auris, f.",
+        "translation": "ear",
+        "type": "nominative singular"
+    },
+    "168": {
+        "word": "aures",
+        "full": "auris, auris, f.",
+        "translation": "ear",
+        "type": "nominative plural"
+    },
+    "169": {
+        "word": "aurem",
+        "full": "auris, auris, f.",
+        "translation": "ear",
+        "type": "accusative singular"
+    },
+    "170": {
+        "word": "aurim",
+        "full": "auris, auris, f.",
+        "translation": "ear",
+        "type": "accusative singular"
+    },
+    "171": {
+        "word": "aurum",
+        "full": "auris, auris, f.",
+        "translation": "ear",
+        "type": "genitive plural"
+    },
+    "172": {
+        "word": "civis",
+        "full": "civis, civis, m. and f.",
+        "translation": "citizen",
+        "type": "nominative singular"
+    },
+    "173": {
+        "word": "cives",
+        "full": "civis, civis, m. and f.",
+        "translation": "citizen",
+        "type": "nominative plural"
+    },
+    "174": {
+        "word": "civem",
+        "full": "civis, civis, m. and f.",
+        "translation": "citizen",
+        "type": "accusative singular"
+    },
+    "175": {
+        "word": "civim",
+        "full": "civis, civis, m. and f.",
+        "translation": "citizen",
+        "type": "accusative singular"
+    },
+    "176": {
+        "word": "civum",
+        "full": "civis, civis, m. and f.",
+        "translation": "citizen",
+        "type": "genitive plural"
+    },
+    "177": {
+        "word": "juris",
+        "full": "ius, iuris, n.",
+        "translation": "right, justice",
+        "type": "genitive singular"
+    },
+    "178": {
+        "word": "jurum",
+        "full": "ius, iuris, n.",
+        "translation": "right, justice",
+        "type": "genitive plural"
+    },
+    "179": {
+        "word": "maris",
+        "full": "mare, maris, n.",
+        "translation": "sea",
+        "type": "genitive singular"
+    },
+    "180": {
+        "word": "maria",
+        "full": "mare, maris, n.",
+        "translation": "sea",
+        "type": "nominative plural"
+    },
+    "181": {
+        "word": "marum",
+        "full": "mare, maris, n.",
+        "translation": "sea",
+        "type": "genitive plural"
+    },
+    "182": {
+        "word": "morti",
+        "full": "mors, mortis, f.",
+        "translation": "death",
+        "type": "locative singular"
+    },
+    "183": {
+        "word": "morte",
+        "full": "mors, mortis, f.",
+        "translation": "death",
+        "type": "locative singular"
+    },
+    "184": {
+        "word": "nubes",
+        "full": "nubes, nubis, f.",
+        "translation": "cloud",
+        "type": "nominative singular"
+    },
+    "185": {
+        "word": "nubis",
+        "full": "nubes, nubis, f.",
+        "translation": "cloud",
+        "type": "genitive singular"
+    },
+    "186": {
+        "word": "nubem",
+        "full": "nubes, nubis, f.",
+        "translation": "cloud",
+        "type": "accusative singular"
+    },
+    "187": {
+        "word": "nubim",
+        "full": "nubes, nubis, f.",
+        "translation": "cloud",
+        "type": "accusative singular"
+    },
+    "188": {
+        "word": "nubum",
+        "full": "nubes, nubis, f.",
+        "translation": "cloud",
+        "type": "genitive plural"
+    },
+    "189": {
+        "word": "orium",
+        "full": "os, oris, n.",
+        "translation": "mouth, face",
+        "type": "genitive plural"
+    },
+    "190": {
+        "word": "parti",
+        "full": "pars, partis, f.",
+        "translation": "part, share",
+        "type": "locative singular"
+    },
+    "191": {
+        "word": "parte",
+        "full": "pars, partis, f.",
+        "translation": "part, share",
+        "type": "locative singular"
+    },
+    "192": {
+        "word": "romae",
+        "full": "Roma, -ae, f.",
+        "translation": "Rome",
+        "type": "genitive singular"
+    },
+    "193": {
+        "word": "romai",
+        "full": "Roma, -ae, f.",
+        "translation": "Rome",
+        "type": "genitive singular"
+    },
+    "194": {
+        "word": "romad",
+        "full": "Roma, -ae, f.",
+        "translation": "Rome",
+        "type": "ablative singular"
+    },
+    "195": {
+        "word": "romam",
+        "full": "Roma, -ae, f.",
+        "translation": "Rome",
+        "type": "accusative singular"
+    },
+    "196": {
+        "word": "romum",
+        "full": "Roma, -ae, f.",
+        "translation": "Rome",
+        "type": "genitive plural"
+    },
+    "197": {
+        "word": "romis",
+        "full": "Roma, -ae, f.",
+        "translation": "Rome",
+        "type": "locative plural"
+    },
+    "198": {
+        "word": "romas",
+        "full": "Roma, -ae, f.",
+        "translation": "Rome",
+        "type": "accusative plural"
+    },
+    "199": {
+        "word": "turba",
+        "full": "turba, -ae, f.",
+        "translation": "uproar, disturbance, mob, crowd, multitude",
+        "type": "nominative singular"
+    },
+    "200": {
+        "word": "urbis",
+        "full": "urbs, urbis, f.",
+        "translation": "city",
+        "type": "genitive singular"
+    },
+    "201": {
+        "word": "urbes",
+        "full": "urbs, urbis, f.",
+        "translation": "city",
+        "type": "nominative plural"
+    },
+    "202": {
+        "word": "urbem",
+        "full": "urbs, urbis, f.",
+        "translation": "city",
+        "type": "accusative singular"
+    },
+    "203": {
+        "word": "urbim",
+        "full": "urbs, urbis, f.",
+        "translation": "city",
+        "type": "accusative singular"
+    },
+    "204": {
+        "word": "urbum",
+        "full": "urbs, urbis, f.",
+        "translation": "city",
+        "type": "genitive plural"
+    },
+    "205": {
+        "word": "vibus",
+        "full": "vis, vis, f.",
+        "translation": "force, power, violence",
+        "type": "locative plural"
+    },
+    "206": {
+        "word": "vires",
+        "full": "vis, vis, f.",
+        "translation": "force, power, violence",
+        "type": "nominative plural"
+    },
+    "207": {
+        "word": "virem",
+        "full": "vis, vis, f.",
+        "translation": "force, power, violence",
+        "type": "accusative singular"
+    },
+    "208": {
+        "word": "virim",
+        "full": "vis, vis, f.",
+        "translation": "force, power, violence",
+        "type": "accusative singular"
+    },
+    "209": {
+        "word": "aetas",
+        "full": "aetas, aetatis, f.",
+        "translation": "period of life, life, age, an age, time",
+        "type": "nominative singular"
+    },
+    "210": {
+        "word": "menti",
+        "full": "mens, mentis, f.",
+        "translation": "mind, thought, intention",
+        "type": "locative singular"
+    },
+    "211": {
+        "word": "mente",
+        "full": "mens, mentis, f.",
+        "translation": "mind, thought, intention",
+        "type": "locative singular"
+    },
+    "212": {
+        "word": "senex",
+        "full": "senex, senis, m.",
+        "translation": "old, aged; old man",
+        "type": "nominative singular"
+    },
+    "213": {
+        "word": "senis",
+        "full": "senex, senis, m.",
+        "translation": "old, aged; old man",
+        "type": "genitive singular"
+    },
+    "214": {
+        "word": "senem",
+        "full": "senex, senis, m.",
+        "translation": "old, aged; old man",
+        "type": "accusative singular"
+    },
+    "215": {
+        "word": "senes",
+        "full": "senex, senis, m.",
+        "translation": "old, aged; old man",
+        "type": "nominative plural"
+    },
+    "216": {
+        "word": "senum",
+        "full": "senex, senis, m.",
+        "translation": "old, aged; old man",
+        "type": "genitive plural"
+    },
+    "217": {
+        "word": "genus",
+        "full": "genus, generis, n.",
+        "translation": "origin, kind, sort, class",
+        "type": "nominative singular"
+    },
+    "218": {
+        "word": "hosti",
+        "full": "hostis, hostis, m.",
+        "translation": "an enemy; (plural) the enemy",
+        "type": "locative singular"
+    },
+    "219": {
+        "word": "hoste",
+        "full": "hostis, hostis, m.",
+        "translation": "an enemy; (plural) the enemy",
+        "type": "locative singular"
+    },
+    "220": {
+        "word": "ludus",
+        "full": "ludus, -i, m.",
+        "translation": "game, sport; school",
+        "type": "nominative singular"
+    },
+    "221": {
+        "word": "ludos",
+        "full": "ludus, -i, m.",
+        "translation": "game, sport; school",
+        "type": "nominative singular"
+    },
+    "222": {
+        "word": "ludum",
+        "full": "ludus, -i, m.",
+        "translation": "game, sport; school",
+        "type": "accusative singular"
+    },
+    "223": {
+        "word": "ludom",
+        "full": "ludus, -i, m.",
+        "translation": "game, sport; school",
+        "type": "accusative singular"
+    },
+    "224": {
+        "word": "ludis",
+        "full": "ludus, -i, m.",
+        "translation": "game, sport; school",
+        "type": "locative plural"
+    },
+    "225": {
+        "word": "judex",
+        "full": "iudex, iudicis, m.",
+        "translation": "judge, juror",
+        "type": "nominative singular"
+    },
+    "226": {
+        "word": "cornu",
+        "full": "cornu, -us, n.",
+        "translation": "horn",
+        "type": "ablative singular"
+    },
+    "227": {
+        "word": "genum",
+        "full": "genu, -us, n.",
+        "translation": "knee",
+        "type": "genitive plural"
+    },
+    "228": {
+        "word": "genua",
+        "full": "genu, -us, n.",
+        "translation": "knee",
+        "type": "nominative plural"
+    },
+    "229": {
+        "word": "manus",
+        "full": "manus, -us, f.",
+        "translation": "hand, band; handwriting",
+        "type": "nominative singular"
+    },
+    "230": {
+        "word": "manos",
+        "full": "manus, -us, f.",
+        "translation": "hand, band; handwriting",
+        "type": "genitive singular"
+    },
+    "231": {
+        "word": "manui",
+        "full": "manus, -us, f.",
+        "translation": "hand, band; handwriting",
+        "type": "dative singular"
+    },
+    "232": {
+        "word": "manum",
+        "full": "manus, -us, f.",
+        "translation": "hand, band; handwriting",
+        "type": "accusative singular"
+    },
+    "233": {
+        "word": "metus",
+        "full": "metus, -us, m.",
+        "translation": "fear, dread, anxiety",
+        "type": "nominative singular"
+    },
+    "234": {
+        "word": "metos",
+        "full": "metus, -us, m.",
+        "translation": "fear, dread, anxiety",
+        "type": "genitive singular"
+    },
+    "235": {
+        "word": "metui",
+        "full": "metus, -us, m.",
+        "translation": "fear, dread, anxiety",
+        "type": "dative singular"
+    },
+    "236": {
+        "word": "metum",
+        "full": "metus, -us, m.",
+        "translation": "fear, dread, anxiety",
+        "type": "accusative singular"
+    },
+    "237": {
+        "word": "monti",
+        "full": "mons, montis, m.",
+        "translation": "mountain",
+        "type": "locative singular"
+    },
+    "238": {
+        "word": "monte",
+        "full": "mons, montis, m.",
+        "translation": "mountain",
+        "type": "locative singular"
+    },
+    "239": {
+        "word": "sensi",
+        "full": "sensus, -us, m.",
+        "translation": "feeling, sense",
+        "type": "genitive singular"
+    },
+    "240": {
+        "word": "sensu",
+        "full": "sensus, -us, m.",
+        "translation": "feeling, sense",
+        "type": "dative singular"
+    },
+    "241": {
+        "word": "versi",
+        "full": "versus, -us, m.",
+        "translation": "line of verse",
+        "type": "genitive singular"
+    },
+    "242": {
+        "word": "versu",
+        "full": "versus, -us, m.",
+        "translation": "line of verse",
+        "type": "dative singular"
+    },
+    "243": {
+        "word": "casae",
+        "full": "casa, -ae, f.",
+        "translation": "house, cottage, hut",
+        "type": "genitive singular"
+    },
+    "244": {
+        "word": "casai",
+        "full": "casa, -ae, f.",
+        "translation": "house, cottage, hut",
+        "type": "genitive singular"
+    },
+    "245": {
+        "word": "casad",
+        "full": "casa, -ae, f.",
+        "translation": "house, cottage, hut",
+        "type": "ablative singular"
+    },
+    "246": {
+        "word": "casam",
+        "full": "casa, -ae, f.",
+        "translation": "house, cottage, hut",
+        "type": "accusative singular"
+    },
+    "247": {
+        "word": "casum",
+        "full": "casa, -ae, f.",
+        "translation": "house, cottage, hut",
+        "type": "genitive plural"
+    },
+    "248": {
+        "word": "casis",
+        "full": "casa, -ae, f.",
+        "translation": "house, cottage, hut",
+        "type": "locative plural"
+    },
+    "249": {
+        "word": "casas",
+        "full": "casa, -ae, f.",
+        "translation": "house, cottage, hut",
+        "type": "accusative plural"
+    },
+    "250": {
+        "word": "causa",
+        "full": "causa, -ae, f.",
+        "translation": "cause, reason; case, situation; (abl. causa plus a preceding gen.) for the sake of, on account of",
+        "type": "nominative singular"
+    },
+    "251": {
+        "word": "finis",
+        "full": "finis, finis, m.",
+        "translation": "end, limit, boundary, purpose; (plural) boundaries, territory",
+        "type": "nominative singular"
+    },
+    "252": {
+        "word": "fines",
+        "full": "finis, finis, m.",
+        "translation": "end, limit, boundary, purpose; (plural) boundaries, territory",
+        "type": "nominative plural"
+    },
+    "253": {
+        "word": "finem",
+        "full": "finis, finis, m.",
+        "translation": "end, limit, boundary, purpose; (plural) boundaries, territory",
+        "type": "accusative singular"
+    },
+    "254": {
+        "word": "finim",
+        "full": "finis, finis, m.",
+        "translation": "end, limit, boundary, purpose; (plural) boundaries, territory",
+        "type": "accusative singular"
+    },
+    "255": {
+        "word": "finum",
+        "full": "finis, finis, m.",
+        "translation": "end, limit, boundary, purpose; (plural) boundaries, territory",
+        "type": "genitive plural"
+    },
+    "256": {
+        "word": "genti",
+        "full": "gens, gentis, f.",
+        "translation": "clan, race, nation, people",
+        "type": "locative singular"
+    },
+    "257": {
+        "word": "gente",
+        "full": "gens, gentis, f.",
+        "translation": "clan, race, nation, people",
+        "type": "locative singular"
+    },
+    "258": {
+        "word": "munde",
+        "full": "mundus, -i, m.",
+        "translation": "world, universe",
+        "type": "vocative singular"
+    },
+    "259": {
+        "word": "mundi",
+        "full": "mundus, -i, m.",
+        "translation": "world, universe",
+        "type": "genitive singular"
+    },
+    "260": {
+        "word": "mundo",
+        "full": "mundus, -i, m.",
+        "translation": "world, universe",
+        "type": "dative singular"
+    },
+    "261": {
+        "word": "navis",
+        "full": "navis, navis, f.",
+        "translation": "ship, boat",
+        "type": "nominative singular"
+    },
+    "262": {
+        "word": "naves",
+        "full": "navis, navis, f.",
+        "translation": "ship, boat",
+        "type": "nominative plural"
+    },
+    "263": {
+        "word": "navem",
+        "full": "navis, navis, f.",
+        "translation": "ship, boat",
+        "type": "accusative singular"
+    },
+    "264": {
+        "word": "navim",
+        "full": "navis, navis, f.",
+        "translation": "ship, boat",
+        "type": "accusative singular"
+    },
+    "265": {
+        "word": "navum",
+        "full": "navis, navis, f.",
+        "translation": "ship, boat",
+        "type": "genitive plural"
+    },
+    "266": {
+        "word": "salus",
+        "full": "salus, salutis, f.",
+        "translation": "health, safety; greeting",
+        "type": "nominative singular"
+    },
+    "267": {
+        "word": "vulge",
+        "full": "vulgus, -i, m.",
+        "translation": "the common people, mob, rabble",
+        "type": "vocative singular"
+    },
+    "268": {
+        "word": "vulgi",
+        "full": "vulgus, -i, m.",
+        "translation": "the common people, mob, rabble",
+        "type": "genitive singular"
+    },
+    "269": {
+        "word": "vulgo",
+        "full": "vulgus, -i, m.",
+        "translation": "the common people, mob, rabble",
+        "type": "dative singular"
+    },
+    "270": {
+        "word": "vulga",
+        "full": "vulgus, -i, m.",
+        "translation": "the common people, mob, rabble",
+        "type": "nominative plural"
+    },
+    "271": {
+        "word": "dieis",
+        "full": "dies, diei, m.",
+        "translation": "day",
+        "type": "ablative plural"
+    },
+    "272": {
+        "word": "ferri",
+        "full": "ferrum, -i, n.",
+        "translation": "iron; sword",
+        "type": "locative singular"
+    },
+    "273": {
+        "word": "ferro",
+        "full": "ferrum, -i, n.",
+        "translation": "iron; sword",
+        "type": "dative singular"
+    },
+    "274": {
+        "word": "ferra",
+        "full": "ferrum, -i, n.",
+        "translation": "iron; sword",
+        "type": "nominative plural"
+    },
+    "275": {
+        "word": "fides",
+        "full": "fides, fidei, f.",
+        "translation": "faith, trust, trustworthiness, fidelity, promise, guarantee, protection",
+        "type": "nominative singular"
+    },
+    "276": {
+        "word": "fidei",
+        "full": "fides, fidei, f.",
+        "translation": "faith, trust, trustworthiness, fidelity, promise, guarantee, protection",
+        "type": "genitive singular"
+    },
+    "277": {
+        "word": "fidem",
+        "full": "fides, fidei, f.",
+        "translation": "faith, trust, trustworthiness, fidelity, promise, guarantee, protection",
+        "type": "accusative singular"
+    },
+    "278": {
+        "word": "ignis",
+        "full": "ignis, ignis, m.",
+        "translation": "fire",
+        "type": "nominative singular"
+    },
+    "279": {
+        "word": "ignes",
+        "full": "ignis, ignis, m.",
+        "translation": "fire",
+        "type": "nominative plural"
+    },
+    "280": {
+        "word": "ignem",
+        "full": "ignis, ignis, m.",
+        "translation": "fire",
+        "type": "accusative singular"
+    },
+    "281": {
+        "word": "ignim",
+        "full": "ignis, ignis, m.",
+        "translation": "fire",
+        "type": "accusative singular"
+    },
+    "282": {
+        "word": "ignum",
+        "full": "ignis, ignis, m.",
+        "translation": "fire",
+        "type": "genitive plural"
+    },
+    "283": {
+        "word": "modus",
+        "full": "modus, -i, m.",
+        "translation": "measure, bound, limit; manner, method, mode, way",
+        "type": "nominative singular"
+    },
+    "284": {
+        "word": "modos",
+        "full": "modus, -i, m.",
+        "translation": "measure, bound, limit; manner, method, mode, way",
+        "type": "nominative singular"
+    },
+    "285": {
+        "word": "modum",
+        "full": "modus, -i, m.",
+        "translation": "measure, bound, limit; manner, method, mode, way",
+        "type": "accusative singular"
+    },
+    "286": {
+        "word": "modom",
+        "full": "modus, -i, m.",
+        "translation": "measure, bound, limit; manner, method, mode, way",
+        "type": "accusative singular"
+    },
+    "287": {
+        "word": "modis",
+        "full": "modus, -i, m.",
+        "translation": "measure, bound, limit; manner, method, mode, way",
+        "type": "locative plural"
+    },
+    "288": {
+        "word": "rerum",
+        "full": "res, rei, f.",
+        "translation": "thing, matter, business, affair",
+        "type": "genitive plural"
+    },
+    "289": {
+        "word": "rebus",
+        "full": "res, rei, f.",
+        "translation": "thing, matter, business, affair",
+        "type": "dative plural"
+    },
+    "290": {
+        "word": "speis",
+        "full": "spes, spei, f.",
+        "translation": "hope",
+        "type": "ablative plural"
+    }
+}
